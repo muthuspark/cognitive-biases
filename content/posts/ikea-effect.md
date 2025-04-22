@@ -5,7 +5,6 @@ description: "The tendency to place a disproportionately high value on objects t
 showTags: true
 ---
 
-## The IKEA Effect: Why You Overvalue Your Half-Finished Projects
 
 Ever proudly display that wobbly bookshelf you painstakingly assembled from an IKEA flatpack, even though a professionally built one would be sturdier and look better? You might be experiencing the **IKEA Effect**, a fascinating cognitive bias that skews our perception of value. This post will explore what the IKEA Effect is, why we fall for it, and how to avoid its pitfalls in our professional and personal lives.
 

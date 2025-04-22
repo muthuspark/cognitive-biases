@@ -5,7 +5,6 @@ description: "The tendency to seek information even when it cannot affect action
 showTags: true
 ---
 
-## Drowning in Data? Understanding and Overcoming Information Bias
 
 In a world overflowing with information, it's easy to feel like we need to know *everything* before making a decision. We endlessly scroll, research, and analyze, believing that more data equals better choices. But what if I told you that sometimes, knowing *too much* can actually hurt you? That’s where **Information Bias** comes in.
 

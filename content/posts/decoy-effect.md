@@ -5,7 +5,6 @@ description: "The phenomenon whereby consumers change their preference between t
 showTags: true
 ---
 
-## The Decoy Effect: Why You're Not Always Choosing What You Think You Are
 
 Ever felt like you're making a totally rational decision, only to realize later you were subtly nudged in a direction you hadn't initially considered? Chances are, you've been a victim (or beneficiary!) of the **Decoy Effect**. This cognitive bias plays a powerful role in our choices, influencing everything from what we eat to who we hire. Understanding it can help you become a more mindful and effective decision-maker.
 

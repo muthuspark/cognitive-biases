@@ -5,7 +5,6 @@ description: "The perception of change in a stimulus is proportional to the magn
 showTags: true
 ---
 
-## The Weber–Fechner Law: Why a Little Change Makes a Big Difference (and How to Stop it Fooling You)
 
 Ever wondered why a $10 discount on a $100 item feels insignificant, but a $10 discount on a $20 item feels like a steal? You're experiencing the **Weber–Fechner Law** in action. This powerful cognitive bias shapes how we perceive change, impacting everything from our shopping habits to our strategic decisions. Understanding it can significantly improve your thinking and decision-making abilities. Let’s dive in.
 

@@ -5,7 +5,6 @@ description: "The tendency to misattribute the source of a memory, mixing up whe
 showTags: true
 ---
 
-## Source Confusion: When You're SURE You Heard It From... Wait, Where?
 
 Ever been absolutely certain you heard a juicy rumor from a reliable colleague, only to realize later it was actually from a tabloid you skimmed in the doctor's office? Or perhaps you attributed a brilliant idea to your own genius, only to remember weeks later it was something you read in a book? You've just experienced **Source Confusion**, a cognitive bias that can trip us up in surprising ways.
 

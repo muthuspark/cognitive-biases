@@ -5,7 +5,6 @@ description: "The tendency to judge statements that rhyme as more truthful or ac
 showTags: true
 ---
 
-## Trust Not the Tune: How the "Rhyme-as-Reason Effect" Tricks Your Brain
 
 Have you ever found yourself nodding along to a catchy slogan, only to realize later it wasn't exactly backed by logic? You might have fallen victim to the **Rhyme-as-Reason Effect**, a sneaky cognitive bias that makes us more likely to believe statements that rhyme. Let's dive into why this happens and how to avoid being swayed by mere sound.
 

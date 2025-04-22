@@ -5,7 +5,6 @@ description: "The tendency to overestimate the amount that other people notice y
 showTags: true
 ---
 
-## Feeling the Heat? Why You're Probably Overestimating Your Importance: Understanding the Spotlight Effect
 
 Ever spilled coffee on your shirt right before a big meeting and felt like *everyone* was staring? Or tripped walking onto the stage for a presentation and wanted the earth to swallow you whole? You're likely experiencing the **Spotlight Effect**, a common cognitive bias that makes us think we're the star of our own reality TV show, with all eyes glued to our every move.
 

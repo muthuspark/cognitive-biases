@@ -5,7 +5,6 @@ description: "The mistaken belief that if something happens more frequently than
 showTags: true
 ---
 
-## Beat the Odds: Understanding and Overcoming the Gambler's Fallacy
 
 Ever felt like you were "due" for a win after a string of losses? Or perhaps predicted a coin flip would land on tails after it came up heads five times in a row? If so, you've experienced the **Gambler's Fallacy**, a common cognitive bias that can cloud our judgment in surprising ways.
 

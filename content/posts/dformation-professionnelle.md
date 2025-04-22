@@ -5,7 +5,6 @@ description: "The tendency to look at things from the perspective of one's own p
 showTags: true
 ---
 
-## Déformation Professionnelle: Why Your Expertise Can Blind You
 
 Ever heard the saying, "If all you have is a hammer, everything looks like a nail"? That perfectly encapsulates **Déformation Professionnelle**, a cognitive bias that colors our world with the lens of our profession. It's the reason your doctor might immediately diagnose your cough as allergies (even if it's the start of the flu), or why a lawyer might see every disagreement as a potential lawsuit. But what *is* it, and how can we avoid falling victim to its influence?
 

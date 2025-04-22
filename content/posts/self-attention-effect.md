@@ -5,7 +5,6 @@ description: "The tendency to evaluate one's behavior in terms of internal stand
 showTags: true
 ---
 
-## Are You Too Inside Your Own Head? Understanding the Self-Attention Effect
 
 We all strive to be rational, objective thinkers. But hidden biases lurk beneath the surface, subtly shaping our perceptions and decisions. One particularly pervasive culprit is the **Self-Attention Effect**: the tendency to evaluate our own behavior in terms of internal standards when we’re self-aware. In simpler terms, it's like having an invisible spotlight constantly shining on our actions, making us hyper-aware of how we measure up to our self-imposed rules. Let's dive into what this means, why we're prone to it, and how to wrestle it under control.
 

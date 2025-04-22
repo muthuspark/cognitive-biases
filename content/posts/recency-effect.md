@@ -5,7 +5,6 @@ description: "The tendency to remember the most recently presented information b
 showTags: true
 ---
 
-## Don't Let Last Impressions Fool You: Understanding the Recency Effect
 
 We all like to think we're rational decision-makers, carefully weighing all the evidence before coming to a conclusion. But our brains, marvelous as they are, are also riddled with shortcuts and biases. Today, we're diving into one particularly sneaky bias: the **Recency Effect**. Learn how it can trip you up and, more importantly, how to avoid its pitfalls.
 

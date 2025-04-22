@@ -5,7 +5,6 @@ description: "The tendency for an item that stands out from the rest to be more 
 showTags: true
 ---
 
-## Stop Falling for the Shiny Object: Understanding & Overcoming the Von Restorff Effect
 
 We’ve all been there. Scanning a webpage filled with text and suddenly, BAM! Your eyes are glued to the brightly colored button screaming “Limited Time Offer!” Or maybe you're at a conference where every speaker drones on about the same things, until one presenter walks on stage wearing a neon pink suit and delivering a hilarious, engaging talk. That, my friend, is the **Von Restorff Effect** in action.
 

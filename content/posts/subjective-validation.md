@@ -5,7 +5,6 @@ description: "The perception that something is true if a subject's belief demand
 showTags: true
 ---
 
-## Subjective Validation: Why We See What We Want to Believe
 
 Ever felt like a vague horoscope prediction eerily nailed your current situation? Or perhaps you clung to a conspiracy theory despite evidence against it? You might be experiencing **Subjective Validation**, a cognitive bias that subtly shapes our beliefs and decisions. In this post, we'll dissect this bias, explore its roots, uncover its consequences, and equip you with strategies to recognize and mitigate its influence on your thinking.
 

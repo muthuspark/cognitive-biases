@@ -5,7 +5,6 @@ description: "The tendency for post-event information to interfere with the memo
 showTags: true
 ---
 
-## The Misinformation Effect: How False Memories Can Hijack Your Thinking
 
 Ever been absolutely sure you remembered something one way, only to discover you were completely wrong? You might be a victim of the **Misinformation Effect**, a cognitive bias that can subtly warp your memories and, in turn, your decisions. Let's dive into how this insidious bias works and, more importantly, what you can do about it.
 

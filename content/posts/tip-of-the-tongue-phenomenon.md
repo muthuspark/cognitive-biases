@@ -5,7 +5,6 @@ description: "The feeling that a forgotten word or name is retrievable, accompan
 showTags: true
 ---
 
-## That Darn… Uh… You Know! Understanding the Tip of the Tongue Phenomenon
 
 Ever been in a conversation, desperately trying to recall a name or word that's *right there* on the edge of your mind? You can practically taste it, you might even know the first letter, but it stubbornly refuses to surface. Welcome to the frustrating world of the **Tip of the Tongue Phenomenon**.
 

@@ -5,7 +5,6 @@ description: "The urge to do the opposite of what someone wants you to do out of
 showTags: true
 ---
 
-## Reactance: Why You Resist Being Told What to Do (And How to Stop)
 
 Ever felt that burning urge to do the *exact opposite* of what someone is telling you to do? Whether it’s ignoring a warning label, doubling down on a bad investment your advisor cautioned against, or digging your heels in when your manager mandates a new process, you might be experiencing **reactance**.
 

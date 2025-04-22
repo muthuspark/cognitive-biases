@@ -5,7 +5,6 @@ description: "The preference for the current state of affairs, with the current 
 showTags: true
 ---
 
-## Stuck in a Rut? Understanding and Overcoming Status Quo Bias
 
 Ever wonder why you stick with the same brand of coffee, even though you see new and tempting options on the shelf? Or why you're still using that clunky old software at work when everyone else has upgraded? You might be a victim of the **Status Quo Bias**, a cognitive shortcut that can keep us from making truly informed decisions. This isn't about laziness; it's a deep-seated preference for the current state of affairs that subtly shapes our choices. Let's dive in and explore this fascinating bias.
 

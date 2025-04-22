@@ -5,7 +5,6 @@ description: "The tendency for people to view themselves as relatively variable 
 showTags: true
 ---
 
-## Trait Ascription Bias: Why You're a Snowflake & Everyone Else is a Stereotype
 
 Ever felt misunderstood? Like people just don't *get* the real, complex you? That's partly because of the **Trait Ascription Bias**. This cognitive shortcut leads us to see ourselves as nuanced and adaptable, while viewing others as predictable characters with fixed traits. It's a powerful force that shapes our interactions, opinions, and even our understanding of the world. But by understanding it, we can learn to think more clearly and act more fairly.
 

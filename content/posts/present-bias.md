@@ -5,7 +5,6 @@ description: "The tendency to rather settle for a smaller present reward than to
 showTags: true
 ---
 
-## Stuck in Today? Understanding and Overcoming Present Bias
 
 We all want to make sound decisions, whether it’s about our careers, our health, or our finances. But our brains, wonderfully complex as they are, often play tricks on us. One particularly powerful trickster is **Present Bias**, the tendency to prioritize immediate gratification over larger, long-term rewards. Let's dive into understanding how this bias works and how we can take steps to overcome it.
 

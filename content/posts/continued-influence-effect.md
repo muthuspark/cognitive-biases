@@ -5,7 +5,6 @@ description: "The tendency to believe previously learned misinformation even aft
 showTags: true
 ---
 
-## The Lingering Lie: Understanding and Overcoming the Continued Influence Effect
 
 Have you ever clung to a piece of information, even after someone proved it was wrong? You’re not alone. We all fall victim to the **Continued Influence Effect**, a sneaky cognitive bias that can warp our understanding of the world. This post will explore what this bias is, why we fall for it, its real-world consequences, and, most importantly, how to fight it.
 

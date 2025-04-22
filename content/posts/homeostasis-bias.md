@@ -5,7 +5,6 @@ description: "The reluctance to disturb a system that is perceived to be in equi
 showTags: true
 ---
 
-## Upsetting the Apple Cart: Understanding and Overcoming Homeostasis Bias
 
 Ever felt reluctant to change something, even if you knew it wasn't working perfectly? Maybe you stuck with an inefficient process at work, kept reading a newspaper that confirmed your existing beliefs, or delayed making a crucial health decision. You might have fallen victim to **Homeostasis Bias**, a cognitive quirk that makes us cling to the status quo, even when change could be beneficial.
 

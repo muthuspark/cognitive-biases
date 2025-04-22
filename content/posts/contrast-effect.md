@@ -5,7 +5,6 @@ description: "The enhancement or diminishment of a perception, cognition, or rel
 showTags: true
 ---
 
-## The Contrast Effect: How Comparing Apples to Oranges (and Everything Else) Tricks Your Brain
 
 We make countless judgments every day. Is this job offer good? Is this news story accurate? Is this pain tolerable? What if I told you that your *perception* of those things is heavily influenced by what you’ve just seen, heard, or experienced beforehand? Enter the **Contrast Effect**, a cognitive bias that warps our judgment based on comparisons. Understanding it is crucial for making better decisions, both big and small.
 

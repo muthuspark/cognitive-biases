@@ -5,7 +5,6 @@ description: "The tendency to focus on the nominal value (face value) of money r
 showTags: true
 ---
 
-## Don't Be Fooled: Understanding the Money Illusion and How to Beat It
 
 Ever felt richer after getting a raise, even though your cost of living also went up? You might be falling victim to the **Money Illusion**, a sneaky cognitive bias that can cloud your judgment and lead to poor decisions. Let's unpack this phenomenon and learn how to outsmart it.
 

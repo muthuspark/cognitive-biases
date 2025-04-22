@@ -5,7 +5,6 @@ description: "The tendency to not account for natural statistical variation and 
 showTags: true
 ---
 
-## Regression to the Mean: Why Outliers Don't Always Stay Out There
 
 Have you ever felt like your luck is changing after a particularly bad or good day? Maybe you celebrated a stellar sales month only to see things dip drastically next month. Or, perhaps you felt relieved after a disastrous exam result that was followed by a return to your usual performance. If so, you've encountered **Regression to the Mean**, a sneaky cognitive bias that messes with our understanding of cause and effect.
 

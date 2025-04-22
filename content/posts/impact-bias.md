@@ -5,7 +5,6 @@ description: "The tendency to overestimate the length or the intensity of the im
 showTags: true
 ---
 
-## Impact Bias: Why You're Wrong About How Future Events Will Affect You (And How to Fix It)
 
 We've all been there: convinced that landing that dream job will be the pinnacle of happiness, or certain that failing an exam will ruin our lives forever. But more often than not, our feelings are more fleeting, and our resilience is stronger than we predict. This disconnect between our predictions and reality is due to something called **Impact Bias**.
 

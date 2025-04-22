@@ -5,7 +5,6 @@ description: "The tendency to presume that things have inherent properties that 
 showTags: true
 ---
 
-## Essentialism: Why We Think Things Are Inherent and How It Hurts Us
 
 Have you ever thought, "That's just how they *are*"? Or perhaps assigned inherent properties to a group based on limited information? Then you've encountered **essentialism**, a powerful cognitive bias that shapes how we understand the world. It's the tendency to presume that things – people, objects, groups – have underlying, inherent properties (their "essence") that make them what they are. Understanding this bias can dramatically improve your thinking, your relationships, and your decision-making process. Let's dive in.
 

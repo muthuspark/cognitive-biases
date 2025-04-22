@@ -5,7 +5,6 @@ description: "The tendency to more easily recognize faces of the race with which
 showTags: true
 ---
 
-## Are All Faces Really the Same? Understanding the Cross-Race Effect
 
 We pride ourselves on being rational creatures, driven by logic and objective observation. Yet, our brains are often subtle tricksters, playing on ingrained biases that distort our perception of reality. One such cognitive bias is the **Cross-Race Effect**, a fascinating phenomenon that reveals how our brains process information about people from different racial backgrounds. Understanding this bias is crucial for better thinking, improved decision-making, and fostering a more equitable world.
 

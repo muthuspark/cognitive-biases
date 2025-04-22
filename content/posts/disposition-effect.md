@@ -5,7 +5,6 @@ description: "The tendency of investors to sell assets that have increased in va
 showTags: true
 ---
 
-## The Disposition Effect: Why You're Holding Onto Losers (And How to Stop)
 
 We all like to think of ourselves as rational decision-makers. But the truth is, our brains are wired with quirks – cognitive biases – that can lead us astray. One of the most insidious of these is the **Disposition Effect**, and understanding it can drastically improve your thinking, especially when it comes to investing and managing risks.
 

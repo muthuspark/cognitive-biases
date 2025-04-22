@@ -5,7 +5,6 @@ description: "The tendency to better remember information when it is generated f
 showTags: true
 ---
 
-## Unlock Your Brainpower: Mastering the Generation Effect
 
 We all want to learn better, remember more, and make sharper decisions. But our brains, marvelous as they are, are riddled with cognitive biases – predictable patterns of thought that can lead us astray. Today, we’re diving into one powerful (and often overlooked) bias: the **Generation Effect**. Prepare to unlock a new level of cognitive mastery.
 

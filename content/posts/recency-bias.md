@@ -5,7 +5,6 @@ description: "The tendency to place too much importance on the most recent infor
 showTags: true
 ---
 
-## Recency Bias: Why Your Latest Experience is Clouding Your Judgment
 
 Have you ever bought a stock right after hearing a friend brag about its recent gains, only to watch it plummet? Or maybe you judged a new colleague harshly based on one slightly awkward interaction? Chances are, **recency bias** is playing a role. This subtle but pervasive cognitive bias can significantly skew our decisions and distort our understanding of the world. Let's dive into what it is, why we fall for it, and how to keep it from hijacking your thinking.
 

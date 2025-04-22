@@ -5,7 +5,6 @@ description: "The cognitive limit to the number of people with whom one can main
 showTags: true
 ---
 
-## Beyond the Inner Circle: Understanding and Navigating Dunbar's Number
 
 Ever wonder why you can keep up with your family, a few close friends, and some colleagues, but struggle to maintain meaningful relationships with everyone you meet? You might be bumping up against **Dunbar's Number**, a fascinating cognitive limit that shapes our social world in profound ways. In this post, we'll explore what Dunbar's Number is, why we fall for it, and how understanding it can make us better thinkers, leaders, and learners.
 

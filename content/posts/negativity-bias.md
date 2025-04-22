@@ -5,7 +5,6 @@ description: "The tendency to give more weight and attention to negative experie
 showTags: true
 ---
 
-## Are You Being Sucked Into the Negativity Vortex? Understanding and Overcoming Negativity Bias
 
 Ever notice how a single negative comment can ruin your whole day, even if you received ten positive ones? That’s the power of **Negativity Bias** at work, and understanding it is crucial for better decision-making, healthier relationships, and a more balanced perspective on the world. This bias isn’t just a quirk of human nature; it’s deeply ingrained, and it impacts us all. Let’s dive in and explore how to recognize and mitigate its effects.
 

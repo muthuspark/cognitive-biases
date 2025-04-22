@@ -5,7 +5,6 @@ description: "The tendency to attribute greater value to an outcome if you had t
 showTags: true
 ---
 
-## Stop Wasting Your Effort: Understanding the Effort Justification Bias
 
 Ever spent hours assembling a piece of furniture only to convince yourself it's the *best* furniture you've ever owned, even though it wobbles precariously? You might be a victim of **Effort Justification**, a cognitive bias that compels us to overvalue outcomes we've put significant effort into achieving. This seemingly harmless tendency can subtly warp our judgment and lead us down paths of inefficient or even harmful decisions.
 

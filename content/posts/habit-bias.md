@@ -5,7 +5,6 @@ description: "The tendency to repeat past behavior regardless of its outcome due
 showTags: true
 ---
 
-## Stuck in a Rut? Understanding and Overcoming Habit Bias
 
 We all crave routines. They streamline our mornings, boost productivity, and offer a sense of control in a chaotic world. But what happens when those comfortable routines become mental ruts, blinding us to better options? Welcome to the world of **Habit Bias**.
 

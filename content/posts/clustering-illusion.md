@@ -5,7 +5,6 @@ description: "The tendency to see patterns in random events that are actually ch
 showTags: true
 ---
 
-## Seeing Ghosts in the Machine: Understanding the Clustering Illusion
 
 Have you ever found faces in the clouds or believed a string of good luck at a casino meant you were "on a roll"? You might be experiencing the **Clustering Illusion**, a cognitive bias that leads us to perceive patterns in random events. This post will unpack this fascinating bias, explore its roots, and equip you with tools to navigate its deceptive power.
 

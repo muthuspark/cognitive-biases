@@ -5,7 +5,6 @@ description: "The tendency for recall performance to be impaired when given a pa
 showTags: true
 ---
 
-## The Sneaky Trap of Partial Information: Understanding the Part-List Cueing Effect
 
 Ever tried to remember a grocery list, only to find that seeing a few items actually *blocks* your ability to recall the rest? You've likely encountered the **Part-List Cueing Effect**, a fascinating cognitive bias that trips us up more often than we realize. This post will unpack this bias, explore its roots, highlight its impact, and give you practical strategies to avoid its pitfalls.
 

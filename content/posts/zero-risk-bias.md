@@ -5,7 +5,6 @@ description: "The preference for reducing a small risk to zero over a greater re
 showTags: true
 ---
 
-## The Illusion of Certainty: Understanding and Overcoming Zero-Risk Bias
 
 We all crave safety. The promise of eliminating danger entirely is inherently appealing. But what if our pursuit of absolute security actually makes us *less* safe in the long run? Enter **Zero-Risk Bias**, a cognitive quirk that can lead us down inefficient, even harmful, paths.
 

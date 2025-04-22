@@ -5,7 +5,6 @@ description: "The tendency to devalue rewards one has already worked for but not
 showTags: true
 ---
 
-## The Reward Devaluation Effect: Why That Prize Doesn't Always Feel So Prize-Worthy
 
 Ever worked tirelessly towards a goal, only to feel a strange sense of… letdown once you’re close? That’s likely the **Reward Devaluation Effect** kicking in. This cognitive bias, the tendency to devalue rewards one has already worked for but not yet received, can sabotage motivation and cloud our judgment. It’s time to understand how it works and how to combat it.
 

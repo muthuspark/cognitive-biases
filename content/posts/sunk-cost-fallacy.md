@@ -5,7 +5,6 @@ description: "The tendency to continue an endeavor due to previously invested re
 showTags: true
 ---
 
-## Stop Throwing Good Money After Bad: Understanding the Sunk Cost Fallacy
 
 Have you ever finished a terrible movie just because you’d already invested an hour into it? Or stayed in a dead-end job because you’d already put in five years? If so, you've experienced the **Sunk Cost Fallacy**, a cognitive bias that trips up even the smartest among us. Understanding this bias can unlock better decision-making and help you avoid wasting valuable resources.
 

@@ -5,7 +5,6 @@ description: "The tendency to overestimate one's ability to show restraint in th
 showTags: true
 ---
 
-## The Illusion of Control: Why You're Probably Overestimating Your Restraint (And What to Do About It)
 
 Have you ever confidently declared you wouldn't eat a whole pizza, only to find yourself staring at an empty box an hour later? Or sworn off online shopping, only to be lured in by a "limited-time offer"? You might be experiencing **Restraint Bias**, the cognitive illusion that makes us believe we have more self-control than we actually do. This bias impacts professionals, students, and lifelong learners alike, subtly influencing decisions and shaping our understanding of ourselves and the world. Let's dive into what it is, why we fall for it, and how to protect ourselves from its sneaky influence.
 

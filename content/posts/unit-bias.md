@@ -5,7 +5,6 @@ description: "The tendency to want to complete a unit of a task or consumption, 
 showTags: true
 ---
 
-## The Allure of Completion: Understanding and Overcoming Unit Bias
 
 Ever find yourself finishing that entire bag of chips, even when you're not really hungry? Or pushing yourself to complete a course you're no longer enjoying, just because you've already started? You might be falling victim to **Unit Bias**, a cognitive quirk that compels us to complete predefined units, even when it's not in our best interest. Let's dive into this fascinating bias, explore its roots, and discover how to overcome its influence.
 

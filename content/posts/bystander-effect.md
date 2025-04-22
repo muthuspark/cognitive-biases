@@ -5,7 +5,6 @@ description: "The decreased likelihood of an individual to intervene in an emerg
 showTags: true
 ---
 
-## Are You a Bystander in Your Own Life? Understanding the Bystander Effect
 
 Have you ever witnessed something that made you uncomfortable, even disturbed, but found yourself hesitating to act? Maybe a heated argument on the street, a questionable decision at work, or even just a friend making a clearly bad choice. That hesitation could be attributed to a powerful cognitive bias: the **Bystander Effect**. Understanding this bias is crucial for better thinking, ethical decision-making, and leading a more impactful life.
 

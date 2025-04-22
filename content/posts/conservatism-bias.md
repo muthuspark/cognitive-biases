@@ -5,7 +5,6 @@ description: "The tendency to revise one's belief insufficiently when presented 
 showTags: true
 ---
 
-## Stuck in Your Ways? Unpacking Conservatism Bias & How To Break Free
 
 Have you ever clung to an old belief even when faced with compelling evidence that it's wrong? You might be experiencing **Conservatism Bias**, a common cognitive pitfall that affects us all. Understanding this bias is crucial for better decision-making, more effective learning, and navigating our increasingly complex world.
 

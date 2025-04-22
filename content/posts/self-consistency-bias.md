@@ -5,7 +5,6 @@ description: "The tendency to interpret or recall information in a way that conf
 showTags: true
 ---
 
-## You Are Who You Think You Are… And That’s The Problem: Understanding Self-Consistency Bias
 
 We all like to think we’re consistent, that our actions and beliefs align with a coherent self-image. But what if that very desire for consistency blinds us to reality? Enter the **Self-Consistency Bias**, a cognitive trap that influences how we perceive the world and make decisions.
 

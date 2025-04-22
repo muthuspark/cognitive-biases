@@ -5,7 +5,6 @@ description: "The tendency to judge the probability of a whole to be less than t
 showTags: true
 ---
 
-## The Subadditivity Effect: Why We Think Parts Are Greater Than the Whole
 
 Ever feel like a detailed list of possibilities sounds more likely than a general prediction? You might be experiencing the **Subadditivity Effect**, a cognitive bias that can subtly skew our judgment and decision-making. Let's dive into what this bias is, why we're prone to it, and how to avoid falling into its trap.
 

@@ -5,7 +5,6 @@ description: "The tendency to avoid negative information that might cause psycho
 showTags: true
 ---
 
-## Sticking Your Head in the Sand? Understanding the Ostrich Effect
 
 Ever feel like you'd rather not check your bank balance after a spending spree? Or maybe you avoid reading articles about potential risks in your investment portfolio? You might be experiencing the **Ostrich Effect**, a fascinating cognitive bias that can have surprisingly significant impacts on our lives. Let's dig in and learn how to spot it and keep it from burying our heads in the sand.
 

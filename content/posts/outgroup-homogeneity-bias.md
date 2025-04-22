@@ -5,7 +5,6 @@ description: "The tendency to perceive outgroup members as more similar to each 
 showTags: true
 ---
 
-## They're All the Same, Right? Understanding and Overcoming Outgroup Homogeneity Bias
 
 Do you ever find yourself thinking, "All politicians are corrupt," or "Tech bros are all arrogant?" If so, you might be falling victim to **Outgroup Homogeneity Bias**, a common cognitive glitch that can warp our perceptions and lead to flawed decision-making. Let's dive into what this bias is, why we're prone to it, and, most importantly, how to overcome it for better thinking and more informed choices.
 

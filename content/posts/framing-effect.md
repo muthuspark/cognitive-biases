@@ -5,7 +5,6 @@ description: "Drawing different conclusions from the same information, depending
 showTags: true
 ---
 
-## The Framing Effect: Why Words Matter More Than You Think (And What To Do About It)
 
 We pride ourselves on being rational decision-makers, weighing the facts and making objective choices. But what if our choices are subtly influenced by how those facts are *presented*? Enter the **Framing Effect**, a cognitive bias that shapes our perceptions and steers us towards different conclusions based on the very same information. Let's dive into this fascinating, and often frustrating, phenomenon.
 

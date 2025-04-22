@@ -5,7 +5,6 @@ description: "The tendency for people to increasingly choose a smaller-sooner re
 showTags: true
 ---
 
-## Hyperbolic Discounting: Why You're Choosing That Instant Gratification (and How to Stop)
 
 We all want the best for ourselves, right? We set goals, plan for the future, and envision the rewards that come with hard work. But how often do we find ourselves making decisions that seem to sabotage those very goals? The answer might lie in a sneaky cognitive bias called **Hyperbolic Discounting**.
 

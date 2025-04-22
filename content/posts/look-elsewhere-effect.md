@@ -5,7 +5,6 @@ description: "The tendency to see patterns in random data by disregarding the nu
 showTags: true
 ---
 
-## Spotting Ghosts in the Data: Understanding the Look-Elsewhere Effect
 
 Have you ever felt a strong intuition about something, only to later realize you were cherry-picking information to fit your hunch? Or seen a conspiracy theory that seemed incredibly convincing... until you realized it was based on selectively highlighting coincidences? You might have fallen victim to the **Look-Elsewhere Effect**.
 

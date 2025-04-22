@@ -5,7 +5,6 @@ description: "The tendency to judge a decision by its eventual outcome instead o
 showTags: true
 ---
 
-## Don't Judge a Strategy by Its Outcome: Understanding Outcome Bias
 
 We've all been there. You hear about a risky investment that paid off big, and suddenly, everyone's hailing the investor as a genius. Or, conversely, a well-thought-out plan fails, and people dismiss it as foolish from the start. This common mental pitfall? It's called **Outcome Bias**, and understanding it is crucial for making better decisions in all aspects of life.
 

@@ -5,7 +5,6 @@ description: "The unconscious attribution of particular qualities to members of 
 showTags: true
 ---
 
-## Implicit Association: Unmasking the Hidden Biases Shaping Your World
 
 Have you ever caught yourself making assumptions about someone based on their group affiliation? We all have. It's human nature, but it can lead to some seriously skewed judgments. Today, we're diving deep into a pervasive cognitive bias called **Implicit Association**, and exploring how it subtly influences our thoughts and actions, often without us even realizing it.
 

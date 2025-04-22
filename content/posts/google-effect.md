@@ -5,7 +5,6 @@ description: "The tendency to forget information that can be found readily onlin
 showTags: true
 ---
 
-## The Google Effect: Why We're Forgetting What We Can Google
 
 In today's hyper-connected world, information is available at our fingertips. But could this constant access be subtly changing how we learn and remember? Enter the **Google Effect**, also known as "digital amnesia," a cognitive bias that explains our tendency to forget information we know we can easily find online using search engines. Sounds convenient, right? But understanding this effect is crucial for professionals, students, and anyone committed to sharp thinking.
 

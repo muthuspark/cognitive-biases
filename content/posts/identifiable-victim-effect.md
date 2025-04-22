@@ -5,7 +5,6 @@ description: "The tendency to respond more strongly to a single identified perso
 showTags: true
 ---
 
-## The Heartstring Hack: Understanding and Overcoming the Identifiable Victim Effect
 
 Ever find yourself more moved by a single story of hardship than statistics detailing widespread suffering? You're not alone. You've likely fallen prey to the **Identifiable Victim Effect**, a cognitive bias that profoundly impacts how we perceive and respond to suffering. Understanding this bias is crucial for anyone striving for better decision-making, more effective advocacy, and a less emotionally manipulated worldview.
 

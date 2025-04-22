@@ -5,7 +5,6 @@ description: "The tendency to conform to popular trends and styles, often withou
 showTags: true
 ---
 
-## Riding the Wave, or Sinking in Style: Understanding the Fashion Effect
 
 Have you ever found yourself gravitating towards a certain investment strategy simply because "everyone's doing it?" Or perhaps you've adopted a new tech tool because it's the "in" thing, only to find it doesn't quite fit your needs? You might be experiencing the **Fashion Effect**, a cognitive bias that influences our decisions more than we realize.
 

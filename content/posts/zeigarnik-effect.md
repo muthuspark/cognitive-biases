@@ -5,7 +5,6 @@ description: "The tendency to remember uncompleted or interrupted tasks better t
 showTags: true
 ---
 
-## Unfinished Business: Understanding the Zeigarnik Effect and How It Shapes Your Thinking
 
 Ever find yourself humming a song you can’t quite place, or dwelling on a project you haven't finished, even when you've moved on to other things? That's likely the **Zeigarnik Effect** at work. This fascinating cognitive bias highlights our brain's peculiar obsession with incomplete tasks, and understanding it can unlock powerful insights into how we learn, work, and make decisions. Let's dive in!
 

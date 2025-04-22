@@ -5,7 +5,6 @@ description: "The tendency to rely too heavily on the first piece of information
 showTags: true
 ---
 
-## Anchored Down: How the Anchoring Bias Distorts Your Decisions (and What To Do About It)
 
 Ever wondered why you’re willing to spend $30 on a bottle of wine when the restaurant's "regular" bottle is $15? Or why that “sale” price seems like such a steal? The answer, more often than not, lies in a powerful cognitive bias called the **Anchoring Bias**.
 

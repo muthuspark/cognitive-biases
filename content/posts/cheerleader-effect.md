@@ -5,7 +5,6 @@ description: "The tendency for people to appear more attractive in a group than 
 showTags: true
 ---
 
-## The Cheerleader Effect: Why We Find Groups More Attractive (and What to Do About It)
 
 Ever notice how a group of friends often seems more attractive than each individual when seen separately? That’s the **Cheerleader Effect** in action, a cognitive bias that subtly shapes our perceptions. Understanding this bias is key to making better decisions, navigating social situations more effectively, and becoming a sharper thinker. Let's dive in!
 

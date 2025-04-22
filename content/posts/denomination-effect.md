@@ -5,7 +5,6 @@ description: "The tendency to spend more money when it's denominated in small am
 showTags: true
 ---
 
-## The Denomination Effect: Why Loose Change Loosens Your Grip on Spending
 
 Ever notice how easily you spend a handful of coins compared to a crisp bill of the same value? That's the **Denomination Effect** at play, and it's a cognitive bias that can subtly steer your spending habits. Understanding it can unlock smarter decision-making in all areas of your life.
 

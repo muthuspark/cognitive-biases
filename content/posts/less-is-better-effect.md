@@ -5,7 +5,6 @@ description: "The tendency to prefer a smaller set to a larger set judged separa
 showTags: true
 ---
 
-## The Curious Case of Less: How the "Less-is-Better Effect" Warps Our Judgement
 
 Have you ever chosen the smaller gift basket over the larger one, even though the larger one clearly had more stuff? Or perhaps preferred the single, glowing review over a multitude of mixed ones? You might have been a victim of the **Less-is-Better Effect**, a cognitive bias that trips us up more often than we realize.
 

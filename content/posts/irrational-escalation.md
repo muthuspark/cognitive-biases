@@ -5,7 +5,6 @@ description: "The phenomenon where decision-makers increase their commitment to 
 showTags: true
 ---
 
-## Stuck in the Mud? Understanding and Overcoming Irrational Escalation
 
 Have you ever found yourself stubbornly clinging to a decision, even when all signs point to it being a mistake? Perhaps you've poured more money into a failing investment, doubled down on a struggling project at work, or continued a relationship long past its expiration date. If so, you might be experiencing **Irrational Escalation**, a cognitive bias that can lead to significant problems in our personal and professional lives.
 

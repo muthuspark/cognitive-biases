@@ -5,7 +5,6 @@ description: "The over-reliance on a familiar tool or method, ignoring or under-
 showTags: true
 ---
 
-## Hammer Time? Why You're Over-Relying on What You Know (Law of the Instrument)
 
 Ever heard the saying, "If all you have is a hammer, everything looks like a nail?" That perfectly encapsulates the **Law of the Instrument**, a cognitive bias that can seriously limit your thinking and problem-solving abilities. In this post, we'll explore what this bias is, why we fall for it, and, most importantly, how to break free from its grip.
 

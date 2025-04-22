@@ -5,7 +5,6 @@ description: "The tendency to attribute negative actions by outgroup members to 
 showTags: true
 ---
 
-## Are They Just Bad, or is it the Situation? Understanding the Ultimate Attribution Error
 
 Have you ever noticed how easily we jump to conclusions about "them" versus "us"? The **Ultimate Attribution Error** is a powerful cognitive bias that shapes how we interpret the actions of people we perceive as belonging to different groups than our own. Understanding this bias is crucial for improving our judgment, building bridges, and making fairer decisions. Let's dive in.
 

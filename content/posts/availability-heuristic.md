@@ -5,7 +5,6 @@ description: "The tendency to overestimate the likelihood of events with greater
 showTags: true
 ---
 
-## Don't Be Fooled: How the Availability Heuristic Tricks Your Brain
 
 We all pride ourselves on being rational thinkers, weighing evidence and making sound judgments. But what if your brain is subtly playing tricks on you, skewing your perceptions based on what comes to mind *easily*, not necessarily what’s *true*? That's the power of the **Availability Heuristic**, a cognitive bias that can significantly impact your decisions. Let's dive in and learn how to recognize and overcome this common mental pitfall.
 

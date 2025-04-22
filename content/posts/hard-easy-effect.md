@@ -5,7 +5,6 @@ description: "The tendency to overestimate one's ability to accomplish hard task
 showTags: true
 ---
 
-## Are You Overconfident About the Impossible and Underconfident About the Simple? Understanding the Hard-Easy Effect
 
 We all like to think we're pretty good at assessing our own abilities. But how often do you *really* know where your skills lie? Chances are, you're falling prey to the **Hard-Easy Effect**: a cognitive bias that makes us overestimate our abilities on difficult tasks while underestimating them on easy ones. This subtle but powerful bias can skew your judgment, hinder your learning, and lead to some pretty questionable decisions. Let's dive into what it is, why it happens, and how to avoid its pitfalls.
 

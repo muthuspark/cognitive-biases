@@ -5,7 +5,6 @@ description: "The tendency to overestimate how much our future selves will share
 showTags: true
 ---
 
-## Projecting Forward: Why You're Not as Consistent as You Think (And What To Do About It)
 
 Are you sure that future you will agree with decisions you're making today? Probably not as much as you think. We're constantly evolving, yet we often fall prey to **Projection Bias**, the tendency to overestimate how much our future selves will share the same preferences, priorities, and tastes as our current selves. Understanding this bias is crucial for making better decisions in everything from career choices to financial planning.
 

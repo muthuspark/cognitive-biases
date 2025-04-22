@@ -5,7 +5,6 @@ description: "The tendency to develop a preference for things merely because the
 showTags: true
 ---
 
-## The Mere Exposure Effect: Why Familiarity Breeds… Well, Everything?
 
 Have you ever found yourself humming a song you initially disliked, or suddenly liking a brand you’ve seen advertised everywhere? Chances are, you’ve been influenced by the **Mere Exposure Effect**, a cognitive bias that subtly shapes our preferences and decisions. Understanding this bias is crucial for anyone seeking clearer thinking, whether you’re a student, a professional, or simply a lifelong learner.
 

@@ -5,7 +5,6 @@ description: "The tendency to make judgments based only on the information that 
 showTags: true
 ---
 
-## WYSIATI (What You See Is All There Is): Why Your Brain Trusts Incomplete Information
 
 Imagine you're handed a puzzle with a crucial piece missing. Most people would hesitate to declare the puzzle “solved,” right? But what if that missing piece is hidden from your view, or what if you don't even *know* there's a piece missing? That's the essence of **WYSIATI (What You See Is All There Is)**, a powerful cognitive bias that shapes our judgments and decisions more often than we realize. Let's dive in.
 

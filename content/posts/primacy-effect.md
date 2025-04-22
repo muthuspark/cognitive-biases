@@ -5,7 +5,6 @@ description: "The tendency to remember the first items in a series better than t
 showTags: true
 ---
 
-## First Impressions Matter...Maybe Too Much: Understanding the Primacy Effect
 
 Ever find yourself disproportionately remembering the opening act of a concert or the first few points of a presentation? You're likely experiencing the **Primacy Effect**, a cognitive bias that can subtly, yet powerfully, influence our judgment and decisions. This bias makes us give undue weight to the initial information we receive, often at the expense of later, potentially more important, details. Let's dive into why this happens and how we can avoid its pitfalls.
 

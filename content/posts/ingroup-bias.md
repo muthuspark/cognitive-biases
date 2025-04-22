@@ -5,7 +5,6 @@ description: "The tendency to favor one's own group, often resulting in prejudic
 showTags: true
 ---
 
-## Ingroup Bias: Why We Love "Us" (and Why It Hurts Everyone)
 
 Have you ever noticed how easy it is to cheer on your favorite sports team, defend your political party, or rally around colleagues at work? That feeling of belonging and loyalty is powerful, but it can also lead us down a slippery slope thanks to a cognitive bias called **Ingroup Bias**.
 

@@ -5,7 +5,6 @@ description: "The tendency to avoid using or buying products, research, or knowl
 showTags: true
 ---
 
-## The "Not Invented Here" Syndrome: Why We Reject Great Ideas (Just Because They Aren't Ours)
 
 Have you ever dismissed a solution simply because it came from someone else? Or perhaps resisted a brilliant idea proposed by a rival team? You might be a victim of the **"Not Invented Here Syndrome" (NIHS)**. This cognitive bias can stifle innovation, hinder progress, and even damage relationships, and understanding it is crucial for anyone striving for better thinking and decision-making.
 

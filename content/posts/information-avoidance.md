@@ -5,7 +5,6 @@ description: "The tendency to actively avoid acquiring available but potentially
 showTags: true
 ---
 
-## Information Avoidance: Why We Run From the Truth (and How to Stop)
 
 We all strive to be well-informed. We tell ourselves that knowledge is power, and critical thinking is key. But what happens when the information available to us is…uncomfortable? What if it challenges our deeply held beliefs, points out uncomfortable truths, or even just seems like a hassle to understand? That's when **Information Avoidance** kicks in, and it's a bias that can seriously undermine our decision-making abilities.
 

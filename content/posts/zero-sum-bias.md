@@ -5,7 +5,6 @@ description: "The tendency to perceive situations as zero-sum (where one person'
 showTags: true
 ---
 
-## Are You Playing a Zero-Sum Game? Understanding and Overcoming the Zero-Sum Bias
 
 We all want to win, right? But what if that desire to win is blinding you to possibilities and poisoning your perspective? That's where the **Zero-Sum Bias** comes in. This cognitive shortcut convinces us that every situation is a competition where one person's gain automatically means another's loss, even when that isn't true. Understanding this bias is crucial for professionals, students, and anyone seeking better decision-making in their lives. So, let's dive in and learn how to recognize and overcome the **Zero-Sum Bias**.
 

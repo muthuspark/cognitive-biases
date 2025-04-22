@@ -5,7 +5,6 @@ description: "The tendency to devalue proposals only because they allegedly orig
 showTags: true
 ---
 
-## Reactive Devaluation: Why We Dismiss Good Ideas Just Because of Who Suggested Them
 
 Have you ever instantly disliked a suggestion simply because of *who* made it? Maybe your rival at work proposed a new strategy, and your first instinct was to find fault with it, even before truly considering its merits. If so, you've likely experienced **Reactive Devaluation**, a powerful cognitive bias that can cloud our judgment and lead to suboptimal decisions.
 

@@ -5,7 +5,6 @@ description: "The tendency to believe we are worse than others at difficult task
 showTags: true
 ---
 
-## Think You're Worse Than Everyone Else? Unmasking the Worse-Than-Average Effect
 
 We all have moments of self-doubt. But what if that doubt consistently tells you you're worse than average, especially when tackling difficult tasks? You might be experiencing the **Worse-Than-Average Effect**, a cognitive bias that subtly undermines our confidence and distorts our perception of our own abilities. Let’s dive into what it is, why we fall for it, and how we can fight back.
 

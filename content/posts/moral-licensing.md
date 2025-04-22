@@ -5,7 +5,6 @@ description: "The subconscious phenomenon whereby increased confidence and secur
 showTags: true
 ---
 
-## Are Your Good Deeds Giving You a License to be Bad? Understanding Moral Licensing
 
 We all want to see ourselves as good people. We recycle, donate to charity, maybe even volunteer on weekends. But could these virtuous acts be subtly paving the way for less-than-virtuous choices? Welcome to the world of **Moral Licensing**, a sneaky cognitive bias that can trip up even the most well-intentioned among us.
 

@@ -5,7 +5,6 @@ description: "The tendency to reject new evidence that contradicts a paradigm."
 showTags: true
 ---
 
-## The Semmelweis Reflex: Why We Reject Ideas That Could Save Us
 
 We all like to think we're rational beings, open to new information and willing to change our minds when presented with compelling evidence. But deep down, most of us have a built-in resistance to ideas that challenge our existing beliefs – especially when those beliefs are deeply ingrained and tied to our identity. This resistance has a name: the **Semmelweis Reflex**.
 

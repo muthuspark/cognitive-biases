@@ -5,7 +5,6 @@ description: "The belief that who you are now is the 'finished version' and that
 showTags: true
 ---
 
-## The End-of-History Illusion: Why You Think You're "Finished" (and Why You're Not)
 
 Have you ever looked back at your younger self, maybe a decade or two ago, and cringed at some of your opinions, fashion choices, or even deeply held beliefs? We all have. But what about *right now*? Do you think *future* you will look back at *present* you with the same mixture of amusement and slight embarrassment? Probably not. That's because you're likely experiencing the **End-of-History Illusion** - the persistent belief that who you are now is pretty much the "finished product," and that your tastes, values, and personality won't significantly evolve in the years to come.
 

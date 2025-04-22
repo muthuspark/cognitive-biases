@@ -5,7 +5,6 @@ description: "The tendency to search for something where it is easiest to look, 
 showTags: true
 ---
 
-## Stuck Under the Streetlight? Unveiling a Common Thinking Trap
 
 Have you ever lost your keys and spent ages searching in the living room, even though you have a nagging feeling they might be in the garden? You might be falling victim to the **Streetlight Effect**. Let's dive into what this cognitive bias is, why we're prone to it, and how we can escape its grasp.
 

@@ -5,7 +5,6 @@ description: "The tendency to judge harmful actions as worse than equally harmfu
 showTags: true
 ---
 
-## The Quiet Danger of Doing Nothing: Understanding Omission Bias
 
 We’re often quick to condemn actions that cause harm, and rightfully so. But what about when harm comes from inaction? This is where **Omission Bias** comes into play, a cognitive quirk that profoundly impacts our judgment and decision-making. Let’s dive into this fascinating bias and learn how to recognize and mitigate its influence on our thinking.
 

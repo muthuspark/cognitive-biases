@@ -5,7 +5,6 @@ description: "The tendency to remember one's choices as better than they actuall
 showTags: true
 ---
 
-## The Rose-Tinted Glasses of Decisions: Understanding Choice-Supportive Bias
 
 Have you ever bought something, convinced it was the best thing ever, only to later realize it wasn't *quite* as amazing as you initially thought? That lingering feeling that you still made the "right" decision, despite the evidence pointing otherwise, might be the **Choice-Supportive Bias** at play. This cognitive shortcut can impact everything from our purchasing decisions to our political views, so understanding it is key to sharper thinking and better choices.
 

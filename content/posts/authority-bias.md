@@ -5,7 +5,6 @@ description: "The tendency to attribute greater accuracy to the opinion of an au
 showTags: true
 ---
 
-## Don't Just Trust the White Coat: Understanding and Overcoming Authority Bias
 
 Have you ever blindly accepted advice just because it came from someone with a fancy title or impressive credentials? You might be experiencing **Authority Bias**, a cognitive shortcut that can lead you astray. In this post, we'll dive into what Authority Bias is, why we're susceptible to it, and, most importantly, how to avoid its pitfalls.
 

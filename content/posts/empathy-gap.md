@@ -5,7 +5,6 @@ description: "The tendency to underestimate the influence of visceral drives on 
 showTags: true
 ---
 
-## The Empathy Gap: Why You Can't Really Understand Your Future (or Past) Self
 
 Ever made a New Year's resolution to hit the gym five times a week, only to find yourself struggling to lace up your sneakers by February? Or promised yourself you’d never buy another gadget…right before the new iPhone hits the shelves? Chances are, you've fallen victim to the **Empathy Gap**.
 

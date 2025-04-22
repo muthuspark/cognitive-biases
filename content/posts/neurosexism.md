@@ -5,7 +5,6 @@ description: "The tendency to interpret neuroscientific findings as confirming g
 showTags: true
 ---
 
-## Neurosexism: When Brain Science Confirms What We *Think* We Already Know
 
 Are men from Mars and women from Venus? It’s a catchy phrase, but what if the "evidence" supporting such a claim is more about our pre-existing biases than actual, verifiable scientific fact? This is where **Neurosexism** comes into play, a sneaky cognitive bias that can cloud our judgment and reinforce outdated stereotypes. Let's dive into what it is, why we fall for it, and what we can do about it.
 

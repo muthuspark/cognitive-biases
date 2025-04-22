@@ -5,7 +5,6 @@ description: "The tendency to overestimate how well one's mental state is unders
 showTags: true
 ---
 
-## Think They Get You? The Illusion of Transparency Might Be Tricking You
 
 Have you ever felt like everyone knew exactly what you were thinking, even when you hadn't said a word? You might be experiencing the **Illusion of Transparency**, a common cognitive bias that can seriously skew our perception of how well others understand us. Understanding this bias is crucial for better communication, decision-making, and ultimately, more effective thinking.
 

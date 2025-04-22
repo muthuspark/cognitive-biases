@@ -5,7 +5,6 @@ description: "The tendency for an impression created in one area to influence op
 showTags: true
 ---
 
-## The Halo Effect: Why Good Looks (and More) Can Cloud Your Judgment
 
 Have you ever met someone and instantly liked them, not because of anything they said, but just… because? Or perhaps you've dismissed an idea simply because it came from someone you don't respect? You might be experiencing the **Halo Effect** in action. This cognitive bias, a sneaky shortcut our brains take, can significantly impact our judgment in ways we often don’t realize.
 

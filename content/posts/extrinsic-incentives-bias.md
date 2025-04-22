@@ -5,7 +5,6 @@ description: "The tendency to attribute others' behavior to extrinsic factors wh
 showTags: true
 ---
 
-## Are They Just in it For the Money? Unmasking the Extrinsic Incentives Bias
 
 We all like to think we're driven by noble purposes – passion, curiosity, the desire to make a difference. But what about everyone else? Do we assume they're motivated by something less… lofty? Perhaps money, power, or mere convenience? This is where the **Extrinsic Incentives Bias** creeps in, leading us to misjudge others' motivations and, ultimately, make poor decisions.
 

@@ -5,7 +5,6 @@ description: "The tendency to view two options as more different when evaluating
 showTags: true
 ---
 
-## Seeing the Grand Canyon When You Just Need a Road Map: Understanding Distinction Bias
 
 We all want to make good decisions, whether it's choosing the right job, investing wisely, or even just picking the best cereal at the grocery store. But our brains, brilliant as they are, sometimes play tricks on us. Today, we're diving into a fascinating cognitive bias called **Distinction Bias**, and how it can cloud your judgment.
 

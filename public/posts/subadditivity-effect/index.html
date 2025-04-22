@@ -61,7 +61,7 @@
 
 
 
-<link rel="stylesheet" href="/assets/combined.min.0f4f5c64ee7100cff28e7c7366d922b5499829f72c91a53b9b17f236d85ad7e7.css" media="all">
+<link rel="stylesheet" href="/assets/combined.min.645cea0a33677acc57afb24c27ad089b56644d6e166396a36a17c27843baf120.css" media="all">
 
 
 
@@ -95,7 +95,13 @@
 
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3609399560636561" crossorigin="anonymous"></script>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
 
 </head>
 
@@ -137,6 +143,7 @@
     
 
 </div>
+<div id="search"></div>
 
     </header>
 
@@ -156,7 +163,7 @@
 
     
 
-    <h1 class="single-title">Subadditivity Effect</h1>
+    <h1 class="single-title" data-pagefind-body>Subadditivity Effect</h1>
     
 
     
@@ -203,11 +210,7 @@
   
 
   <div class="single-content">
-    <h2 class="heading" id="the-subadditivity-effect-why-we-think-parts-are-greater-than-the-whole">
-  The Subadditivity Effect: Why We Think Parts Are Greater Than the Whole
-  <a class="anchor" href="#the-subadditivity-effect-why-we-think-parts-are-greater-than-the-whole">#</a>
-</h2>
-<p>Ever feel like a detailed list of possibilities sounds more likely than a general prediction? You might be experiencing the <strong>Subadditivity Effect</strong>, a cognitive bias that can subtly skew our judgment and decision-making. Let&rsquo;s dive into what this bias is, why we&rsquo;re prone to it, and how to avoid falling into its trap.</p>
+    <p>Ever feel like a detailed list of possibilities sounds more likely than a general prediction? You might be experiencing the <strong>Subadditivity Effect</strong>, a cognitive bias that can subtly skew our judgment and decision-making. Let&rsquo;s dive into what this bias is, why we&rsquo;re prone to it, and how to avoid falling into its trap.</p>
 <p><strong>1. What is the Subadditivity Effect?</strong></p>
 <p>In a nutshell, the <strong>Subadditivity Effect</strong> is the tendency to judge the probability of a whole event to be <em>less</em> than the sum of the probabilities of its constituent parts. Imagine you&rsquo;re asked: &ldquo;What&rsquo;s the probability of something going wrong on your next international trip?&rdquo; You might estimate 5%. But what if you&rsquo;re asked to estimate the probabilities of specific things going wrong: flight delays (2%), lost luggage (1%), health issues (1%), visa problems (1%), and other unforeseen hiccups (1%)? Suddenly, the sum of these individual probabilities (6%) exceeds your original estimate of the overall probability (5%).</p>
 <p>Why does this happen? Psychologically, it seems we&rsquo;re better at visualizing and assessing the likelihood of specific, well-defined scenarios. When we think about the whole, we&rsquo;re often operating with a more vague and less detailed mental model. Evolutionary psychologists might argue this stems from our brains being wired to focus on immediate, concrete threats rather than abstract possibilities. Specific threats trigger immediate responses, while broad, undefined threats can be overwhelming and paralyzing.</p>

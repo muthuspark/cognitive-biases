@@ -5,7 +5,6 @@ description: "The tendency to overestimate one's desirable qualities, and undere
 showTags: true
 ---
 
-## Think You're Above Average? The Illusion of Superiority and How It Tricks Your Brain
 
 Ever felt like you're a better driver than most people on the road? Or that you’re more ethical, smarter, or more insightful than the average person in your workplace? Chances are you’ve experienced **Illusory Superiority**, a sneaky cognitive bias that affects us all. Understanding this bias is crucial for better decision-making, improved relationships, and ultimately, a more accurate view of ourselves and the world. Let's dive in.
 

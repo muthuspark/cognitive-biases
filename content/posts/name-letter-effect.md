@@ -5,7 +5,6 @@ description: "The tendency to prefer the letters in one's own name over other le
 showTags: true
 ---
 
-## You Might Be Biased By Your Own Name: Understanding the Name-Letter Effect
 
 Ever wondered why you feel drawn to certain brands, choose specific careers, or even favor certain people without fully understanding why? It might be more than just coincidence. You could be experiencing the **Name-Letter Effect**, a fascinating cognitive bias that subtly influences our preferences and decisions.
 

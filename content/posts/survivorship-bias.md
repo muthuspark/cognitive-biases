@@ -5,7 +5,6 @@ description: "The logical error of concentrating on the people or things that ma
 showTags: true
 ---
 
-## Don't Be Fooled: How Survivorship Bias Warps Your Thinking
 
 Are you impressed by the dazzling success stories of entrepreneurs, athletes, or bestselling authors? Hold on a moment. Before you start rewriting your life plan, you need to understand **Survivorship Bias**. It's a cognitive trap that can lead you to make seriously flawed decisions by focusing solely on the winners and overlooking the vast graveyard of those who didn't make it.
 
