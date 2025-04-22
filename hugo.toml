@@ -1,0 +1,48 @@
+baseURL = 'https://cognitive-biases.muthu.co'
+languageCode = 'en-us'
+title = 'Mind Traps: The Ultimate Guide to 150 Cognitive Biases' 
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-T7PH4WNH24"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "Collection of fascinating psychological shortcuts that influence how we think, perceive, and decide—often without our awareness."
+showFooter = true
+footerContent = "Compiled with ♥"
+faviconPath = "/"
+
+# Appearance settings
+theme = 'light'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content in markdown
+homeIntroContent = """
+Explore the hidden mental shortcuts that shape your decisions. "Mind Traps" reveals 150 cognitive biases—from common blindspots like Confirmation Bias to obscure phenomena such as the Zeigarnik Effect—that influence how we think without our awareness. Each bias is explained with clear examples, helping you recognize these patterns and make more rational choices. Discover the quirks of human reasoning and improve your decision-making today.
+"""
+
+singleDateFormat = '2 Jan 2006'
+
+# Collection to display on home
+homeCollectionTitle = ''
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 20
+listSummaries = false
+listDateFormat = '02 Jan 2006'
+
+# Main menu pages
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
