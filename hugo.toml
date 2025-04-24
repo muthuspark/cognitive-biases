@@ -40,6 +40,8 @@ listDateFormat = '02 Jan 2006'
 name = "home"
 url = "/"
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+[sitemap]
+  changeFreq = 'weekly'
+  disable = false
+  filename = 'sitemap_index.xml'
+  priority = -1
