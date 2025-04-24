@@ -7,7 +7,7 @@ npx -y pagefind --site public
 echo "Copying ads.txt..."
 cp ads.txt public/ads.txt
 git add .
-current_date=$(date +"%Y-%m-%d")
+current_date=$(date +"%Y-%m-%d %h-%m-%s")
 commit_message=${1:-"Release $current_date"}
 git commit -m "$commit_message"
 git push

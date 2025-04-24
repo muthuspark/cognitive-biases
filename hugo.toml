@@ -43,5 +43,5 @@ url = "/"
 [sitemap]
   changeFreq = 'weekly'
   disable = false
-  filename = 'sitemap.xml'
+  filename = 'sitemap_index.xml'
   priority = -1
