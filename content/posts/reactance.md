@@ -2,7 +2,7 @@
 title: "Reactance"
 tags: ['freedom', 'control', 'resistance']
 description: "The urge to do the opposite of what someone wants you to do out of a need to resist a perceived attempt to constrain your freedom of choice."
-showTags: true
+showTags: false
 ---
 
 

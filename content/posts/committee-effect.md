@@ -2,7 +2,7 @@
 title: "Committee Effect"
 tags: ['group-dynamics', 'decision-making', 'polarization']
 description: "The tendency for groups of people to make decisions that are more extreme than the initial inclination of its members."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post on the Committee Effect, tailored for your specified audience, structure, and tone.

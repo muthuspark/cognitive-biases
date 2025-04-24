@@ -2,7 +2,7 @@
 title: "Restraint Bias"
 tags: ['self-control', 'temptation', 'prediction']
 description: "The tendency to overestimate one's ability to show restraint in the face of temptation."
-showTags: true
+showTags: false
 ---
 
 

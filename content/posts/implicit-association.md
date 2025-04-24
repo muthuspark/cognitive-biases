@@ -2,7 +2,7 @@
 title: "Implicit Association"
 tags: ['unconscious-bias', 'stereotyping', 'social-categorization']
 description: "The unconscious attribution of particular qualities to members of social groups."
-showTags: true
+showTags: false
 ---
 
 

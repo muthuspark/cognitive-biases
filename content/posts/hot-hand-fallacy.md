@@ -2,7 +2,7 @@
 title: "Hot-Hand Fallacy"
 tags: ['probability', 'sports', 'performance']
 description: "The belief that a person who has experienced success has a greater chance of further success in additional attempts."
-showTags: true
+showTags: false
 ---
 
 

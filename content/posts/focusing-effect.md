@@ -2,7 +2,7 @@
 title: "Focusing Effect"
 tags: ['attention', 'prediction', 'judgment']
 description: "The tendency to place too much importance on one aspect of an event, causing an error in accurately predicting the utility of a future outcome."
-showTags: true
+showTags: false
 ---
 
 

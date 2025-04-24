@@ -2,7 +2,7 @@
 title: "Unit Bias"
 tags: ['consumption', 'completion', 'portion-size']
 description: "The tendency to want to complete a unit of a task or consumption, with units defined by external factors."
-showTags: true
+showTags: false
 ---
 
 

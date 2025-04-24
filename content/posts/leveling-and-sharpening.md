@@ -2,7 +2,7 @@
 title: "Leveling and Sharpening"
 tags: ['memory', 'distortion', 'recall']
 description: "The tendency in memory for some elements to be emphasized or exaggerated (sharpened) while others are minimized or eliminated (leveled)."
-showTags: true
+showTags: false
 ---
 
 

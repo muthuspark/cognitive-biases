@@ -2,7 +2,7 @@
 title: "Verbatim Effect"
 tags: ['memory', 'information-processing', 'gist']
 description: "The tendency to remember the general meaning of information rather than its specific details or exact wording."
-showTags: true
+showTags: false
 ---
 
 

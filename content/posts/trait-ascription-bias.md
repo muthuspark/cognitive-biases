@@ -2,7 +2,7 @@
 title: "Trait Ascription Bias"
 tags: ['self-perception', 'social-perception', 'personality']
 description: "The tendency for people to view themselves as relatively variable in terms of personality, behavior, and mood while viewing others as much more predictable."
-showTags: true
+showTags: false
 ---
 
 

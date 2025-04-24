@@ -2,7 +2,7 @@
 title: "Cryptomnesia"
 tags: ['memory', 'creativity', 'plagiarism']
 description: "The tendency to mistakenly believe that a thought is novel when it's actually a memory of something forgotten."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft targeting your specified audience and structure, optimized for "Cryptomnesia":

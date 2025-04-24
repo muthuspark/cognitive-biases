@@ -2,7 +2,7 @@
 title: "Dunbar's Number"
 tags: ['social-networks', 'relationships', 'cognition']
 description: "The cognitive limit to the number of people with whom one can maintain stable social relationships."
-showTags: true
+showTags: false
 ---
 
 

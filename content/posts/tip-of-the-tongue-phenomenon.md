@@ -2,7 +2,7 @@
 title: "Tip of the Tongue Phenomenon"
 tags: ['memory', 'recall', 'language']
 description: "The feeling that a forgotten word or name is retrievable, accompanied by partial recall and recognition when presented with similar words."
-showTags: true
+showTags: false
 ---
 
 

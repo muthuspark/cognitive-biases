@@ -2,7 +2,7 @@
 title: "Hyperbolic Discounting"
 tags: ['decision-making', 'temporal-discounting', 'reward']
 description: "The tendency for people to increasingly choose a smaller-sooner reward over a larger-later reward as the delay occurs sooner rather than later in time."
-showTags: true
+showTags: false
 ---
 
 

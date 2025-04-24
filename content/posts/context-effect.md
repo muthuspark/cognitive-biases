@@ -2,7 +2,7 @@
 title: "Context Effect"
 tags: ['perception', 'environment', 'information-processing']
 description: "The influence of environmental factors on perception or how information is processed."
-showTags: true
+showTags: false
 ---
 
 

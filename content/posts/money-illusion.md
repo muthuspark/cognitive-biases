@@ -2,7 +2,7 @@
 title: "Money Illusion"
 tags: ['economics', 'finance', 'value-perception']
 description: "The tendency to focus on the nominal value (face value) of money rather than its value in terms of purchasing power."
-showTags: true
+showTags: false
 ---
 
 

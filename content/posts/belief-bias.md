@@ -2,7 +2,7 @@
 title: "Belief Bias"
 tags: ['logic', 'reasoning', 'argument-evaluation']
 description: "The tendency to evaluate the logical strength of an argument based on belief in the truth or falsity of the conclusion."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft targeting the specified audience and structure, optimized for "Belief Bias":

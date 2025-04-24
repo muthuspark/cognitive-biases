@@ -2,7 +2,7 @@
 title: "Naive Realism"
 tags: ['perception', 'objectivity', 'reality']
 description: "The belief that we see reality as it really is, objectively and without bias."
-showTags: true
+showTags: false
 ---
 
 

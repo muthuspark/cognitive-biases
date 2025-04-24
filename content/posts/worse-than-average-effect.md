@@ -2,7 +2,7 @@
 title: "Worse-Than-Average Effect"
 tags: ['self-perception', 'social-comparison', 'difficulty']
 description: "The tendency to believe we are worse than others at difficult tasks."
-showTags: true
+showTags: false
 ---
 
 

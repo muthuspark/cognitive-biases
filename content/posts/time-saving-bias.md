@@ -2,7 +2,7 @@
 title: "Time-Saving Bias"
 tags: ['time-perception', 'estimation', 'speed']
 description: "The tendency to underestimate the time that could be saved when increasing from a relatively low speed and to overestimate the time that could be saved when increasing from a relatively high speed."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Peak-End Rule"
 tags: ['memory', 'experience', 'evaluation']
 description: "The tendency to judge an experience primarily based on how they felt at its most intense point and at its end, rather than based on the sum or average of every moment of the experience."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft on the Peak-End Rule, designed to meet your specifications.

@@ -2,7 +2,7 @@
 title: "Testing Effect"
 tags: ['memory', 'learning', 'recall']
 description: "The tendency to remember information better after actively retrieving it from memory rather than simply restudying it."
-showTags: true
+showTags: false
 ---
 
 

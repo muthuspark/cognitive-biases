@@ -2,7 +2,7 @@
 title: "Ideometer Effect"
 tags: ['suggestion', 'unconscious', 'behavior']
 description: "The tendency for suggestion or expectation to automatically trigger unconscious motor behavior."
-showTags: true
+showTags: false
 ---
 
 

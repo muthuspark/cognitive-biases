@@ -2,7 +2,7 @@
 title: "Law of the Instrument"
 tags: ['problem-solving', 'methodology', 'tools']
 description: "The over-reliance on a familiar tool or method, ignoring or under-valuing alternative approaches."
-showTags: true
+showTags: false
 ---
 
 

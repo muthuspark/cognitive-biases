@@ -2,7 +2,7 @@
 title: "IKEA Effect"
 tags: ['value-perception', 'effort', 'ownership']
 description: "The tendency to place a disproportionately high value on objects that one has partially assembled oneself."
-showTags: true
+showTags: false
 ---
 
 

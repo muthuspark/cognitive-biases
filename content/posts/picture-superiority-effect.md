@@ -2,7 +2,7 @@
 title: "Picture Superiority Effect"
 tags: ['memory', 'visual', 'learning']
 description: "The tendency to remember pictures better than words."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Disposition Effect"
 tags: ['investing', 'loss-aversion', 'finance']
 description: "The tendency of investors to sell assets that have increased in value, while keeping assets that have dropped in value."
-showTags: true
+showTags: false
 ---
 
 

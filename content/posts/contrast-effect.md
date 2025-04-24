@@ -2,7 +2,7 @@
 title: "Contrast Effect"
 tags: ['perception', 'comparison', 'judgment']
 description: "The enhancement or diminishment of a perception, cognition, or related performance as a result of successive or simultaneous exposure to a stimulus of lesser or greater value in the same dimension."
-showTags: true
+showTags: false
 ---
 
 

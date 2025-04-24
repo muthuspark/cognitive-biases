@@ -2,7 +2,7 @@
 title: "Ambiguity Effect"
 tags: ['decision-making', 'risk-assessment', 'uncertainty']
 description: "The tendency to avoid options for which the probability of a favorable outcome is unknown."
-showTags: true
+showTags: false
 ---
 
 

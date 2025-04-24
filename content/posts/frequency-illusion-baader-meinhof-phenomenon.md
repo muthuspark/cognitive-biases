@@ -2,7 +2,7 @@
 title: "Frequency Illusion (Baader-Meinhof Phenomenon)"
 tags: ['perception', 'attention', 'pattern-recognition']
 description: "The illusion in which a word, name, or thing that has recently come to one's attention suddenly seems to appear with improbable frequency."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Bandwagon Effect"
 tags: ['social-influence', 'conformity', 'group-behavior']
 description: "The tendency to do or believe things because many other people do or believe the same."
-showTags: true
+showTags: false
 ---
 
 

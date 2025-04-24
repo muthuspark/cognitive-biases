@@ -2,7 +2,7 @@
 title: "Empathy Gap"
 tags: ['empathy', 'emotional-state', 'decision-making']
 description: "The tendency to underestimate the influence of visceral drives on one's own attitudes, preferences, and behaviors."
-showTags: true
+showTags: false
 ---
 
 

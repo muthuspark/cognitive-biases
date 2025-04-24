@@ -2,7 +2,7 @@
 title: "Default Effect"
 tags: ['decision-making', 'choice-architecture', 'defaults']
 description: "The tendency to favor the default option when presented with a choice."
-showTags: true
+showTags: false
 ---
 
 

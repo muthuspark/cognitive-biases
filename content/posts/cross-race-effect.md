@@ -2,7 +2,7 @@
 title: "Cross-Race Effect"
 tags: ['facial-recognition', 'race', 'perception']
 description: "The tendency to more easily recognize faces of the race with which one is most familiar."
-showTags: true
+showTags: false
 ---
 
 

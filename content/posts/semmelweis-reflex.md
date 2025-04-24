@@ -2,7 +2,7 @@
 title: "Semmelweis Reflex"
 tags: ['belief-persistence', 'innovation', 'resistance']
 description: "The tendency to reject new evidence that contradicts a paradigm."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Grey Fallacy"
 tags: ['reasoning', 'truth', 'compromise']
 description: "The belief that the truth of a matter must be somewhere in between two opposing positions."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft focusing on the Grey Fallacy, aiming to meet your specifications.

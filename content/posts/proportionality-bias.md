@@ -2,7 +2,7 @@
 title: "Proportionality Bias"
 tags: ['causality', 'explanation', 'proportionality']
 description: "The tendency to assume that big events have big causes, rather than being due to chance or small factors."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post on Proportionality Bias, crafted according to your specifications:

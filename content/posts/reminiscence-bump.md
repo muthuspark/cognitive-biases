@@ -2,7 +2,7 @@
 title: "Reminiscence Bump"
 tags: ['memory', 'autobiography', 'life-stage']
 description: "The tendency to recall more personal events from adolescence and early adulthood than from other life periods."
-showTags: true
+showTags: false
 ---
 
 

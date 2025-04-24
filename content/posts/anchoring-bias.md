@@ -2,7 +2,7 @@
 title: "Anchoring Bias"
 tags: ['decision-making', 'negotiation', 'judgment']
 description: "The tendency to rely too heavily on the first piece of information encountered (the 'anchor') when making decisions."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Halo Effect"
 tags: ['perception', 'judgment', 'impression-formation']
 description: "The tendency for an impression created in one area to influence opinion in another area."
-showTags: true
+showTags: false
 ---
 
 

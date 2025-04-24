@@ -2,7 +2,7 @@
 title: "Decoy Effect"
 tags: ['consumer-behavior', 'choice', 'marketing']
 description: "The phenomenon whereby consumers change their preference between two options when presented with a third option that is asymmetrically dominated."
-showTags: true
+showTags: false
 ---
 
 

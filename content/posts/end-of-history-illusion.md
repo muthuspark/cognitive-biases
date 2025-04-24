@@ -2,7 +2,7 @@
 title: "End-of-History Illusion"
 tags: ['self-perception', 'future-prediction', 'change']
 description: "The belief that who you are now is the 'finished version' and that your tastes and preferences won't significantly change in the future."
-showTags: true
+showTags: false
 ---
 
 

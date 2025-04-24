@@ -2,7 +2,7 @@
 title: "Primacy Effect"
 tags: ['memory', 'learning', 'information-processing']
 description: "The tendency to remember the first items in a series better than those in the middle."
-showTags: true
+showTags: false
 ---
 
 

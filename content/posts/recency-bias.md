@@ -2,7 +2,7 @@
 title: "Recency Bias"
 tags: ['memory', 'information-processing', 'decision-making']
 description: "The tendency to place too much importance on the most recent information encountered."
-showTags: true
+showTags: false
 ---
 
 

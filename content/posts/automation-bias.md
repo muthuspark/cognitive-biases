@@ -2,7 +2,7 @@
 title: "Automation Bias"
 tags: ['technology', 'decision-making', 'trust']
 description: "The tendency to over-rely on automated systems and trust their output over one's own judgment."
-showTags: true
+showTags: false
 ---
 
 

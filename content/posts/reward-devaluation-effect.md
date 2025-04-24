@@ -2,7 +2,7 @@
 title: "Reward Devaluation Effect"
 tags: ['motivation', 'reward', 'value-perception']
 description: "The tendency to devalue rewards one has already worked for but not yet received."
-showTags: true
+showTags: false
 ---
 
 

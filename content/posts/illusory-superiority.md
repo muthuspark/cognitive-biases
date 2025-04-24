@@ -2,7 +2,7 @@
 title: "Illusory Superiority"
 tags: ['self-perception', 'social-comparison', 'confidence']
 description: "The tendency to overestimate one's desirable qualities, and underestimate undesirable qualities, relative to other people."
-showTags: true
+showTags: false
 ---
 
 

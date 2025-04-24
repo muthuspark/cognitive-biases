@@ -2,7 +2,7 @@
 title: "False Consensus Effect"
 tags: ['social-perception', 'consensus', 'projection']
 description: "The tendency to overestimate the extent to which one's own behaviors, attitudes, and beliefs are common and shared by others."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft based on your requirements, optimized for SEO and readability:

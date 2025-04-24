@@ -2,7 +2,7 @@
 title: "Mere Exposure Effect"
 tags: ['preference', 'familiarity', 'marketing']
 description: "The tendency to develop a preference for things merely because they are familiar."
-showTags: true
+showTags: false
 ---
 
 

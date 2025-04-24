@@ -2,7 +2,7 @@
 title: "Illusion of Transparency"
 tags: ['communication', 'social-perception', 'empathy']
 description: "The tendency to overestimate how well one's mental state is understood by others."
-showTags: true
+showTags: false
 ---
 
 

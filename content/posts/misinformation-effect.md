@@ -2,7 +2,7 @@
 title: "Misinformation Effect"
 tags: ['memory', 'suggestibility', 'information-processing']
 description: "The tendency for post-event information to interfere with the memory of the original event."
-showTags: true
+showTags: false
 ---
 
 

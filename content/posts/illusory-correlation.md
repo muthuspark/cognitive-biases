@@ -2,7 +2,7 @@
 title: "Illusory Correlation"
 tags: ['perception', 'correlation', 'statistics']
 description: "The perception of a relationship between variables when no such relationship exists."
-showTags: true
+showTags: false
 ---
 
 

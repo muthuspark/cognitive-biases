@@ -2,7 +2,7 @@
 title: "Framing Effect"
 tags: ['decision-making', 'communication', 'persuasion']
 description: "Drawing different conclusions from the same information, depending on how that information is presented."
-showTags: true
+showTags: false
 ---
 
 

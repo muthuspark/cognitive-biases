@@ -2,7 +2,7 @@
 title: "Spotlight Effect"
 tags: ['social-anxiety', 'self-consciousness', 'perception']
 description: "The tendency to overestimate the amount that other people notice your appearance or behavior."
-showTags: true
+showTags: false
 ---
 
 

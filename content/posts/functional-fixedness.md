@@ -2,7 +2,7 @@
 title: "Functional Fixedness"
 tags: ['problem-solving', 'creativity', 'innovation']
 description: "The tendency to see an object only in the way it is traditionally used."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Self-Attention Effect"
 tags: ['self-awareness', 'behavior', 'evaluation']
 description: "The tendency to evaluate one's behavior in terms of internal standards when self-aware."
-showTags: true
+showTags: false
 ---
 
 

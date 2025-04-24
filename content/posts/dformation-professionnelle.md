@@ -2,7 +2,7 @@
 title: "Déformation Professionnelle"
 tags: ['professional-bias', 'perspective', 'specialization']
 description: "The tendency to look at things from the perspective of one's own profession rather than from a broader perspective."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Bizarreness Effect"
 tags: ['memory', 'learning', 'recall']
 description: "The tendency to remember bizarre material better than common material."
-showTags: true
+showTags: false
 ---
 
 

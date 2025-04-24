@@ -2,7 +2,7 @@
 title: "Forer Effect (Barnum Effect)"
 tags: ['personality', 'validation', 'self-perception']
 description: "The observation that individuals will give high accuracy ratings to descriptions of their personality that supposedly are tailored specifically for them, but are in fact vague and general enough to apply to a wide range of people."
-showTags: true
+showTags: false
 ---
 
 

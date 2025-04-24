@@ -2,7 +2,7 @@
 title: "Groupthink"
 tags: ['group-dynamics', 'decision-making', 'conformity']
 description: "When the desire for harmony or conformity in a group results in irrational or dysfunctional decision-making outcomes."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft on Groupthink, designed to meet your specifications:

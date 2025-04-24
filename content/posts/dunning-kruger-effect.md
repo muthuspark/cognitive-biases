@@ -2,7 +2,7 @@
 title: "Dunning-Kruger Effect"
 tags: ['self-assessment', 'metacognition', 'confidence']
 description: "A cognitive bias in which people with low ability at a task overestimate their ability, while people with high ability underestimate their ability."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft designed to meet your specifications. I've tried to balance clarity, depth, and practicality.

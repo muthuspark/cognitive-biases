@@ -2,7 +2,7 @@
 title: "Distinction Bias"
 tags: ['evaluation', 'comparison', 'decision-making']
 description: "The tendency to view two options as more different when evaluating them simultaneously than when evaluating them separately."
-showTags: true
+showTags: false
 ---
 
 

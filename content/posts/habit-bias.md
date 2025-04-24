@@ -2,7 +2,7 @@
 title: "Habit Bias"
 tags: ['behavior', 'habit', 'routine']
 description: "The tendency to repeat past behavior regardless of its outcome due to the comfort of routine."
-showTags: true
+showTags: false
 ---
 
 

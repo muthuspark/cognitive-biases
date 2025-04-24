@@ -2,7 +2,7 @@
 title: "Less-is-Better Effect"
 tags: ['evaluation', 'comparison', 'choice']
 description: "The tendency to prefer a smaller set to a larger set judged separately, but not jointly."
-showTags: true
+showTags: false
 ---
 
 

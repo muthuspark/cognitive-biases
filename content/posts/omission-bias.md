@@ -2,7 +2,7 @@
 title: "Omission Bias"
 tags: ['moral-judgment', 'action', 'inaction']
 description: "The tendency to judge harmful actions as worse than equally harmful omissions or inactions."
-showTags: true
+showTags: false
 ---
 
 

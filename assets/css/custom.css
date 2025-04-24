@@ -2,3 +2,6 @@
 .post-line .line-date {
   display: none;
 }
+#search {
+  margin-bottom: 1rem;
+}

@@ -2,7 +2,7 @@
 title: "Identifiable Victim Effect"
 tags: ['empathy', 'charity', 'moral-decision-making']
 description: "The tendency to respond more strongly to a single identified person at risk than to a large group of anonymous ones."
-showTags: true
+showTags: false
 ---
 
 

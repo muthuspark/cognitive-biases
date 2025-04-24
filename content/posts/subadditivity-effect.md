@@ -2,7 +2,7 @@
 title: "Subadditivity Effect"
 tags: ['probability', 'judgment', 'estimation']
 description: "The tendency to judge the probability of a whole to be less than the sum of the probabilities of its parts."
-showTags: true
+showTags: false
 ---
 
 

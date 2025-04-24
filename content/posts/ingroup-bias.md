@@ -2,7 +2,7 @@
 title: "Ingroup Bias"
 tags: ['social-psychology', 'group-dynamics', 'prejudice']
 description: "The tendency to favor one's own group, often resulting in prejudiced views toward out-groups."
-showTags: true
+showTags: false
 ---
 
 

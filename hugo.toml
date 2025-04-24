@@ -6,9 +6,6 @@ theme = 'typo'
 # Google analytics code
 googleAnalytics = "G-T7PH4WNH24"
 
-[taxonomies]
-tag = 'tags'
-
 [params]
 # Meta description
 description = "Collection of fascinating psychological shortcuts that influence how we think, perceive, and decide—often without our awareness."
@@ -42,10 +39,6 @@ listDateFormat = '02 Jan 2006'
 [[params.menu]]
 name = "home"
 url = "/"
-
-[[params.menu]]
-name = "tags"
-url = "/tags"
 
 [caches]
   [caches.images]

@@ -2,7 +2,7 @@
 title: "Self-Serving Bias"
 tags: ['self-perception', 'attribution', 'ego-protection']
 description: "The tendency to attribute positive events to one's own character but attribute negative events to external factors."
-showTags: true
+showTags: false
 ---
 
 

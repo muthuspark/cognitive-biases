@@ -2,7 +2,7 @@
 title: "Conservatism Bias"
 tags: ['belief-updating', 'information-processing', 'resistance']
 description: "The tendency to revise one's belief insufficiently when presented with new evidence."
-showTags: true
+showTags: false
 ---
 
 

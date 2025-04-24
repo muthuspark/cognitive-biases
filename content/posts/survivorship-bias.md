@@ -2,7 +2,7 @@
 title: "Survivorship Bias"
 tags: ['statistics', 'analysis', 'reasoning']
 description: "The logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not."
-showTags: true
+showTags: false
 ---
 
 

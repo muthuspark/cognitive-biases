@@ -2,7 +2,7 @@
 title: "Present Bias"
 tags: ['decision-making', 'temporal-discounting', 'impulse-control']
 description: "The tendency to rather settle for a smaller present reward than to wait for a larger future reward."
-showTags: true
+showTags: false
 ---
 
 

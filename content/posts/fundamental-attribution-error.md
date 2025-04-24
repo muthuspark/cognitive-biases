@@ -2,7 +2,7 @@
 title: "Fundamental Attribution Error"
 tags: ['social-psychology', 'perception', 'judgment']
 description: "The tendency to overemphasize personality-based explanations for behaviors observed in others while underemphasizing situational explanations."
-showTags: true
+showTags: false
 ---
 
 Okay, here’s a blog post draft on the Fundamental Attribution Error, tailored to the specifications provided:

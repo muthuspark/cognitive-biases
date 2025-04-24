@@ -2,7 +2,7 @@
 title: "Illusion of Validity"
 tags: ['prediction', 'information-processing', 'confidence']
 description: "The belief that additional information generates additional relevant data for predictions, even when it clearly does not."
-showTags: true
+showTags: false
 ---
 
 

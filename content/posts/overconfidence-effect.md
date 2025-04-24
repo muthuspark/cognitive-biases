@@ -2,7 +2,7 @@
 title: "Overconfidence Effect"
 tags: ['confidence', 'forecasting', 'self-assessment']
 description: "The tendency to overestimate one's abilities and the precision of one's forecasts."
-showTags: true
+showTags: false
 ---
 
 

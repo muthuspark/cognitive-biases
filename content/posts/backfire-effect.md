@@ -2,7 +2,7 @@
 title: "Backfire Effect"
 tags: ['belief-persistence', 'information-processing', 'resistance']
 description: "When correcting misinformation can actually reinforce belief in that misinformation, particularly in motivated individuals."
-showTags: true
+showTags: false
 ---
 
 

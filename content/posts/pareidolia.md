@@ -2,7 +2,7 @@
 title: "Pareidolia"
 tags: ['pattern-recognition', 'perception', 'visual-processing']
 description: "The tendency to perceive meaningful patterns or images in random or ambiguous visual stimuli."
-showTags: true
+showTags: false
 ---
 
 

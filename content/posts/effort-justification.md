@@ -2,7 +2,7 @@
 title: "Effort Justification"
 tags: ['value-perception', 'effort', 'achievement']
 description: "The tendency to attribute greater value to an outcome if you had to put effort into achieving it."
-showTags: true
+showTags: false
 ---
 
 

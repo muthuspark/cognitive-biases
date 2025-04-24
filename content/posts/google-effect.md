@@ -2,7 +2,7 @@
 title: "Google Effect"
 tags: ['memory', 'technology', 'information-storage']
 description: "The tendency to forget information that can be found readily online by using search engines."
-showTags: true
+showTags: false
 ---
 
 

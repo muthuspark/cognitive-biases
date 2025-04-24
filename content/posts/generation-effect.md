@@ -2,7 +2,7 @@
 title: "Generation Effect"
 tags: ['memory', 'learning', 'retention']
 description: "The tendency to better remember information when it is generated from one's own mind rather than simply read."
-showTags: true
+showTags: false
 ---
 
 

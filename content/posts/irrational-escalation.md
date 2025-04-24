@@ -2,7 +2,7 @@
 title: "Irrational Escalation"
 tags: ['commitment', 'decision-making', 'escalation']
 description: "The phenomenon where decision-makers increase their commitment to a previously chosen course of action despite new evidence suggesting it's not working."
-showTags: true
+showTags: false
 ---
 
 

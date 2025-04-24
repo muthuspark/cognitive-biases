@@ -2,7 +2,7 @@
 title: "Selective Perception"
 tags: ['perception', 'expectation', 'information-processing']
 description: "The tendency for expectations to affect perception."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft on Selective Perception, designed to meet your specifications.

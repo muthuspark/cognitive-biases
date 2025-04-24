@@ -2,7 +2,7 @@
 title: "Modality Effect"
 tags: ['memory', 'sensory', 'learning']
 description: "The tendency to recall information better when it's presented in certain sensory modes versus others."
-showTags: true
+showTags: false
 ---
 
 

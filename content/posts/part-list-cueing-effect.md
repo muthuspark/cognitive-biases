@@ -2,7 +2,7 @@
 title: "Part-List Cueing Effect"
 tags: ['memory', 'recall', 'cueing']
 description: "The tendency for recall performance to be impaired when given a partial list of items from a previously learned list."
-showTags: true
+showTags: false
 ---
 
 

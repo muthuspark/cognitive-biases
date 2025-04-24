@@ -2,7 +2,7 @@
 title: "Actor-Observer Bias"
 tags: ['attribution', 'social-perception', 'self-perception']
 description: "The tendency to attribute one's own actions to external causes while attributing other people's behaviors to internal causes."
-showTags: true
+showTags: false
 ---
 
 

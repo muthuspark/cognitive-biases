@@ -2,7 +2,7 @@
 title: "Curse of Knowledge"
 tags: ['communication', 'teaching', 'empathy']
 description: "When better-informed people find it extremely difficult to think about problems from the perspective of lesser-informed people."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Endowment Effect"
 tags: ['ownership', 'value-perception', 'economics']
 description: "The tendency to value something more just because you own it."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft targeting the specified audience and requirements.

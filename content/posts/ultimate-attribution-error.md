@@ -2,7 +2,7 @@
 title: "Ultimate Attribution Error"
 tags: ['attribution', 'intergroup-bias', 'prejudice']
 description: "The tendency to attribute negative actions by outgroup members to their inherent nature and positive actions to situational factors."
-showTags: true
+showTags: false
 ---
 
 

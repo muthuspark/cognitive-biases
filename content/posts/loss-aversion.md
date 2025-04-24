@@ -2,7 +2,7 @@
 title: "Loss Aversion"
 tags: ['economics', 'decision-making', 'risk-assessment']
 description: "The tendency to prefer avoiding losses to acquiring equivalent gains."
-showTags: true
+showTags: false
 ---
 
 

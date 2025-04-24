@@ -2,7 +2,7 @@
 title: "Streetlight Effect"
 tags: ['search', 'convenience', 'methodology']
 description: "The tendency to search for something where it is easiest to look, rather than where it is most likely to be."
-showTags: true
+showTags: false
 ---
 
 

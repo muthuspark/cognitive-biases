@@ -2,7 +2,7 @@
 title: "Essentialism"
 tags: ['categorization', 'judgment', 'identity']
 description: "The tendency to presume that things have inherent properties that make them what they are."
-showTags: true
+showTags: false
 ---
 
 

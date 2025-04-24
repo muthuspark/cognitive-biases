@@ -2,7 +2,7 @@
 title: "Gambler's Fallacy"
 tags: ['probability', 'randomness', 'prediction']
 description: "The mistaken belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa."
-showTags: true
+showTags: false
 ---
 
 

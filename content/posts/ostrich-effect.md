@@ -2,7 +2,7 @@
 title: "Ostrich Effect"
 tags: ['avoidance', 'negative-information', 'coping']
 description: "The tendency to avoid negative information that might cause psychological discomfort."
-showTags: true
+showTags: false
 ---
 
 

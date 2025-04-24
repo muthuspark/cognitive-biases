@@ -2,7 +2,7 @@
 title: "Risk Compensation"
 tags: ['risk-taking', 'safety', 'behavior']
 description: "The tendency to take greater risks when perceived safety increases."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post designed to fit your specifications, aimed at a professional, student, and lifelong learner audience, focused on the cognitive bias "Risk Compensation."

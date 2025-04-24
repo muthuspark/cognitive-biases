@@ -2,7 +2,7 @@
 title: "Clustering Illusion"
 tags: ['pattern-recognition', 'randomness', 'probability']
 description: "The tendency to see patterns in random events that are actually chance occurrences."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Confirmation Bias"
 tags: ['belief', 'information-processing', 'decision-making']
 description: "The tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses."
-showTags: true
+showTags: false
 ---
 
 

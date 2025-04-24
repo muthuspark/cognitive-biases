@@ -2,7 +2,7 @@
 title: "Information Avoidance"
 tags: ['avoidance', 'information-processing', 'discomfort']
 description: "The tendency to actively avoid acquiring available but potentially unwanted information."
-showTags: true
+showTags: false
 ---
 
 

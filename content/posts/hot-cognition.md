@@ -2,7 +2,7 @@
 title: "Hot Cognition"
 tags: ['emotion', 'judgment', 'decision-making']
 description: "The tendency for judgments to be influenced by emotional states rather than objective evaluation."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft designed to meet your specifications:

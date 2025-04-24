@@ -2,7 +2,7 @@
 title: "Authority Bias"
 tags: ['social-influence', 'authority', 'judgment']
 description: "The tendency to attribute greater accuracy to the opinion of an authority figure and be more influenced by that opinion."
-showTags: true
+showTags: false
 ---
 
 

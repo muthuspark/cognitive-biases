@@ -2,7 +2,7 @@
 title: "Blind Spot Bias"
 tags: ['metacognition', 'self-awareness', 'introspection']
 description: "The failure to recognize one's own cognitive biases while being able to recognize them in others."
-showTags: true
+showTags: false
 ---
 
 

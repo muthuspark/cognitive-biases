@@ -2,7 +2,7 @@
 title: "Ben Franklin Effect"
 tags: ['reciprocity', 'relationship', 'favor']
 description: "The phenomenon where a person who has performed a favor for someone is more likely to do another favor for that person than they would be if they had received a favor from that person."
-showTags: true
+showTags: false
 ---
 
 

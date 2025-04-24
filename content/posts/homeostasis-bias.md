@@ -2,7 +2,7 @@
 title: "Homeostasis Bias"
 tags: ['change-resistance', 'stability', 'comfort']
 description: "The reluctance to disturb a system that is perceived to be in equilibrium."
-showTags: true
+showTags: false
 ---
 
 

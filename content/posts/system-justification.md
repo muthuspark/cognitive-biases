@@ -2,7 +2,7 @@
 title: "System Justification"
 tags: ['status-quo', 'political-psychology', 'social-systems']
 description: "The tendency to defend and bolster the status quo, i.e., to see it as good, fair, legitimate, and desirable."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post drafted to meet your requirements, focusing on System Justification and its implications:

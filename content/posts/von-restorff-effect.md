@@ -2,7 +2,7 @@
 title: "Von Restorff Effect"
 tags: ['memory', 'distinctiveness', 'attention']
 description: "The tendency for an item that stands out from the rest to be more likely to be remembered."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Source Confusion"
 tags: ['memory', 'source-monitoring', 'attribution']
 description: "The tendency to misattribute the source of a memory, mixing up where, when or from whom information was received."
-showTags: true
+showTags: false
 ---
 
 

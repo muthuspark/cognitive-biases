@@ -2,7 +2,7 @@
 title: "Illusion of Control"
 tags: ['perception', 'control', 'risk-assessment']
 description: "The tendency to overestimate one's degree of influence over external events."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft on the "Illusion of Control" bias, designed to meet the specified requirements:

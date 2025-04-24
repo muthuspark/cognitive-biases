@@ -2,7 +2,7 @@
 title: "Optimism Bias"
 tags: ['self-perception', 'risk-assessment', 'planning']
 description: "The tendency to believe that one is less likely to experience a negative event than others."
-showTags: true
+showTags: false
 ---
 
 

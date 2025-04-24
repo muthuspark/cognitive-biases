@@ -2,7 +2,7 @@
 title: "Negativity Bias"
 tags: ['perception', 'emotion', 'decision-making', 'bias-blindness']
 description: "The tendency to give more weight and attention to negative experiences over positive ones, even when they are of equal intensity."
-showTags: true
+showTags: false
 ---
 
 

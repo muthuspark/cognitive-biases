@@ -2,7 +2,7 @@
 title: "Knightian Uncertainty"
 tags: ['risk', 'uncertainty', 'decision-making']
 description: "The tendency to avoid situations where the probability distribution of outcomes is unknown."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft following your guidelines:

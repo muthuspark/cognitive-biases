@@ -2,7 +2,7 @@
 title: "Self-Consistency Bias"
 tags: ['self-perception', 'memory', 'consistency']
 description: "The tendency to interpret or recall information in a way that confirms one's self-image."
-showTags: true
+showTags: false
 ---
 
 

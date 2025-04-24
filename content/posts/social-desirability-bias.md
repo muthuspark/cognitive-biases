@@ -2,7 +2,7 @@
 title: "Social Desirability Bias"
 tags: ['self-reporting', 'surveys', 'social-approval']
 description: "The tendency to respond to questions in a manner that will be viewed favorably by others."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft designed to meet your specifications.

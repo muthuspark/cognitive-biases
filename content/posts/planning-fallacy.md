@@ -2,7 +2,7 @@
 title: "Planning Fallacy"
 tags: ['planning', 'prediction', 'project-management']
 description: "The tendency to underestimate the time, costs, and risks of future actions and at the same time overestimate the benefits of the same actions."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft on the Planning Fallacy, tailored for your audience and specifications.

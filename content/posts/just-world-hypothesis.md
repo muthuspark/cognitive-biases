@@ -2,7 +2,7 @@
 title: "Just-World Hypothesis"
 tags: ['morality', 'justice', 'attribution']
 description: "The tendency to believe that the world is fundamentally just, causing people to rationalize injustice."
-showTags: true
+showTags: false
 ---
 
 

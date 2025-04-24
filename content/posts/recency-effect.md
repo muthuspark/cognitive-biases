@@ -2,7 +2,7 @@
 title: "Recency Effect"
 tags: ['memory', 'learning', 'information-processing']
 description: "The tendency to remember the most recently presented information best."
-showTags: true
+showTags: false
 ---
 
 

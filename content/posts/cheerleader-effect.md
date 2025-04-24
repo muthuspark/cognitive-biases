@@ -2,7 +2,7 @@
 title: "Cheerleader Effect"
 tags: ['perception', 'attractiveness', 'social-context']
 description: "The tendency for people to appear more attractive in a group than in isolation."
-showTags: true
+showTags: false
 ---
 
 

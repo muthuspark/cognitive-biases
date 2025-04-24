@@ -2,7 +2,7 @@
 title: "Extrinsic Incentives Bias"
 tags: ['motivation', 'attribution', 'self-perception']
 description: "The tendency to attribute others' behavior to extrinsic factors while attributing one's own behavior to intrinsic factors."
-showTags: true
+showTags: false
 ---
 
 

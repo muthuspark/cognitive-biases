@@ -2,7 +2,7 @@
 title: "Not Invented Here Syndrome"
 tags: ['innovation', 'organizational', 'resistance']
 description: "The tendency to avoid using or buying products, research, or knowledge developed outside a group."
-showTags: true
+showTags: false
 ---
 
 

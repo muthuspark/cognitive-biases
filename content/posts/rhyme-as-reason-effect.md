@@ -2,7 +2,7 @@
 title: "Rhyme-as-Reason Effect"
 tags: ['language', 'persuasion', 'judgment']
 description: "The tendency to judge statements that rhyme as more truthful or accurate than those that don't."
-showTags: true
+showTags: false
 ---
 
 

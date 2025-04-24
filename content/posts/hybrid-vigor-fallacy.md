@@ -2,7 +2,7 @@
 title: "Hybrid Vigor Fallacy"
 tags: ['innovation', 'combination', 'synergy']
 description: "The belief that combining different ideas always yields better results than sticking with one approach."
-showTags: true
+showTags: false
 ---
 
 

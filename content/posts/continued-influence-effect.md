@@ -2,7 +2,7 @@
 title: "Continued Influence Effect"
 tags: ['misinformation', 'belief-persistence', 'correction']
 description: "The tendency to believe previously learned misinformation even after it has been corrected."
-showTags: true
+showTags: false
 ---
 
 

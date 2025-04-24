@@ -2,7 +2,7 @@
 title: "Information Bias"
 tags: ['information-seeking', 'decision-making', 'analysis']
 description: "The tendency to seek information even when it cannot affect action."
-showTags: true
+showTags: false
 ---
 
 

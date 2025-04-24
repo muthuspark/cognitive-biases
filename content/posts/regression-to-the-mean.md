@@ -2,7 +2,7 @@
 title: "Regression to the Mean"
 tags: ['statistics', 'prediction', 'variation']
 description: "The tendency to not account for natural statistical variation and therefore to expect extreme observations to continue."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Subjective Validation"
 tags: ['belief', 'validation', 'perception']
 description: "The perception that something is true if a subject's belief demands it to be true."
-showTags: true
+showTags: false
 ---
 
 

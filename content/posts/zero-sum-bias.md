@@ -2,7 +2,7 @@
 title: "Zero-Sum Bias"
 tags: ['competition', 'resources', 'perception']
 description: "The tendency to perceive situations as zero-sum (where one person's gain is another's loss) even when they are not."
-showTags: true
+showTags: false
 ---
 
 

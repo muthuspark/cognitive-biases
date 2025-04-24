@@ -2,7 +2,7 @@
 title: "Reactive Devaluation"
 tags: ['negotiation', 'conflict', 'perception']
 description: "The tendency to devalue proposals only because they allegedly originate from an antagonist."
-showTags: true
+showTags: false
 ---
 
 

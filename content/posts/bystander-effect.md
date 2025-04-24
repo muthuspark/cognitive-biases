@@ -2,7 +2,7 @@
 title: "Bystander Effect"
 tags: ['social-psychology', 'helping-behavior', 'diffusion-of-responsibility']
 description: "The decreased likelihood of an individual to intervene in an emergency situation when others are present."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Zeigarnik Effect"
 tags: ['memory', 'task-completion', 'productivity']
 description: "The tendency to remember uncompleted or interrupted tasks better than completed ones."
-showTags: true
+showTags: false
 ---
 
 

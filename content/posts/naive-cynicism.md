@@ -2,7 +2,7 @@
 title: "Naive Cynicism"
 tags: ['social-perception', 'cynicism', 'bias-blindness']
 description: "The tendency to expect more egocentric bias in others than in oneself."
-showTags: true
+showTags: false
 ---
 
 

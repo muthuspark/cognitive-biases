@@ -2,7 +2,7 @@
 title: "Pseudo-Inefficacy"
 tags: ['altruism', 'helping-behavior', 'motivation']
 description: "The tendency to feel less motivated to help one person when made aware of the plight of many others who cannot be helped."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft tailored to your specifications:

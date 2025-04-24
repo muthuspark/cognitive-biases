@@ -2,7 +2,7 @@
 title: "Pseudocertainty Effect"
 tags: ['risk-assessment', 'decision-making', 'framing']
 description: "The tendency to make risk-averse choices if the expected outcome is positive, but make risk-seeking choices to avoid negative outcomes."
-showTags: true
+showTags: false
 ---
 
 

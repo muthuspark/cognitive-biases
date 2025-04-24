@@ -2,7 +2,7 @@
 title: "Choice-Supportive Bias"
 tags: ['memory', 'decision-making', 'satisfaction']
 description: "The tendency to remember one's choices as better than they actually were."
-showTags: true
+showTags: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Weber–Fechner Law"
 tags: ['perception', 'sensory', 'psychology']
 description: "The perception of change in a stimulus is proportional to the magnitude of the initial stimulus."
-showTags: true
+showTags: false
 ---
 
 

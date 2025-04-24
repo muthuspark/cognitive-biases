@@ -2,7 +2,7 @@
 title: "Impact Bias"
 tags: ['emotional-prediction', 'future', 'coping']
 description: "The tendency to overestimate the length or the intensity of the impact of future feeling states."
-showTags: true
+showTags: false
 ---
 
 

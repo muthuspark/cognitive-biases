@@ -2,7 +2,7 @@
 title: "Fashion Effect"
 tags: ['conformity', 'social-influence', 'trends']
 description: "The tendency to conform to popular trends and styles, often without conscious awareness."
-showTags: true
+showTags: false
 ---
 
 

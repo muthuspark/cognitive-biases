@@ -2,7 +2,7 @@
 title: "Projection Bias"
 tags: ['future-prediction', 'self-knowledge', 'planning']
 description: "The tendency to overestimate how much our future selves will share the same preferences, priorities, and tastes as our current selves."
-showTags: true
+showTags: false
 ---
 
 

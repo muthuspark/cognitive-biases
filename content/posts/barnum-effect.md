@@ -2,7 +2,7 @@
 title: "Barnum Effect"
 tags: ['personality', 'validation', 'self-perception']
 description: "The tendency to accept general, vague, and flattering personality descriptions as uniquely applicable to oneself."
-showTags: true
+showTags: false
 ---
 
 Okay, here’s a blog post draft designed to fit your criteria.

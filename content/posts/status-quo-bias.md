@@ -2,7 +2,7 @@
 title: "Status Quo Bias"
 tags: ['decision-making', 'change', 'preference']
 description: "The preference for the current state of affairs, with the current baseline being taken as a reference point."
-showTags: true
+showTags: false
 ---
 
 

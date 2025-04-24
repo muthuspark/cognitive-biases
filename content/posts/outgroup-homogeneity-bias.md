@@ -2,7 +2,7 @@
 title: "Outgroup Homogeneity Bias"
 tags: ['social-perception', 'group-dynamics', 'stereotyping']
 description: "The tendency to perceive outgroup members as more similar to each other than ingroup members."
-showTags: true
+showTags: false
 ---
 
 

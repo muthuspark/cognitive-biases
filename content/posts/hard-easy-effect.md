@@ -2,7 +2,7 @@
 title: "Hard-Easy Effect"
 tags: ['confidence', 'task-difficulty', 'self-assessment']
 description: "The tendency to overestimate one's ability to accomplish hard tasks and underestimate one's ability to accomplish easy tasks."
-showTags: true
+showTags: false
 ---
 
 

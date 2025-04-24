@@ -2,7 +2,7 @@
 title: "Name-Letter Effect"
 tags: ['self-preference', 'implicit-egotism', 'name']
 description: "The tendency to prefer the letters in one's own name over other letters in the alphabet."
-showTags: true
+showTags: false
 ---
 
 

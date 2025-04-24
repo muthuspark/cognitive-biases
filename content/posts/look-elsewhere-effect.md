@@ -2,7 +2,7 @@
 title: "Look-Elsewhere Effect"
 tags: ['statistics', 'pattern-recognition', 'data-analysis']
 description: "The tendency to see patterns in random data by disregarding the number of comparisons made."
-showTags: true
+showTags: false
 ---
 
 

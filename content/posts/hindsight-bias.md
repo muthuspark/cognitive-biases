@@ -2,7 +2,7 @@
 title: "Hindsight Bias"
 tags: ['memory', 'prediction', 'judgment']
 description: "The tendency to perceive events that have already occurred as having been predictable, despite there having been little or no objective basis for predicting it."
-showTags: true
+showTags: false
 ---
 
 Okay, here's a blog post draft following your specifications. Let me know if you'd like me to tweak it in any way!

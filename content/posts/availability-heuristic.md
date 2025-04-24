@@ -2,7 +2,7 @@
 title: "Availability Heuristic"
 tags: ['memory', 'probability', 'judgment']
 description: "The tendency to overestimate the likelihood of events with greater availability in memory, which can be influenced by how recent, vivid, or emotionally charged these memories are."
-showTags: true
+showTags: false
 ---
 
 

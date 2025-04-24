@@ -2,7 +2,7 @@
 title: "Sunk Cost Fallacy"
 tags: ['decision-making', 'economics', 'investment']
 description: "The tendency to continue an endeavor due to previously invested resources (time, money, effort) despite new evidence suggesting that terminating the endeavor would be more beneficial."
-showTags: true
+showTags: false
 ---
 
 

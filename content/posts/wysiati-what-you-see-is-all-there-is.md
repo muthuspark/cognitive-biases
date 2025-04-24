@@ -2,7 +2,7 @@
 title: "WYSIATI (What You See Is All There Is)"
 tags: ['information-processing', 'judgment', 'availability']
 description: "The tendency to make judgments based only on the information that is directly available, without considering what information might be missing."
-showTags: true
+showTags: false
 ---
 
 

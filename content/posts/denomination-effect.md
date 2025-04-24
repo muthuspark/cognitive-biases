@@ -2,7 +2,7 @@
 title: "Denomination Effect"
 tags: ['spending', 'money', 'consumer-behavior']
 description: "The tendency to spend more money when it's denominated in small amounts (e.g., coins) rather than large amounts (e.g., bills)."
-showTags: true
+showTags: false
 ---
 
 

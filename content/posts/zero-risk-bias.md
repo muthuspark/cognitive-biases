@@ -2,7 +2,7 @@
 title: "Zero-Risk Bias"
 tags: ['risk-assessment', 'decision-making', 'safety']
 description: "The preference for reducing a small risk to zero over a greater reduction in a larger risk."
-showTags: true
+showTags: false
 ---
 
 

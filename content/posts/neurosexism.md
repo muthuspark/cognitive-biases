@@ -2,7 +2,7 @@
 title: "Neurosexism"
 tags: ['gender', 'neuroscience', 'stereotyping']
 description: "The tendency to interpret neuroscientific findings as confirming gender stereotypes."
-showTags: true
+showTags: false
 ---
 
 
