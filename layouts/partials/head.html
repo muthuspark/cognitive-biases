@@ -1,6 +1,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 
+{{/* Prevent indexing of paginated pages to avoid "Alternate page with proper canonical tag" warnings */}}
+{{- if .IsNode -}}
+  {{- with .Paginator -}}
+    {{- if gt .PageNumber 1 -}}
+<meta name="robots" content="noindex, follow">
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
 {{/* Head start hook */}}
 {{ partial "functions/get_hook.html" (dict "hook" "head_start" "context" .) }}
 
